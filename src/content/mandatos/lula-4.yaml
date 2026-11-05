@@ -30,17 +30,26 @@ promessas:
 
   - titulo: Criar o Ministério da Segurança Pública (após aprovação da PEC)
     tema: Segurança
-    status: nao_iniciada
-    analise: Promessa repetida de 2022, quando não foi cumprida.
-    fontes: &opovo
+    status: em_andamento
+    analise: >-
+      Promessa repetida de 2022, quando não foi cumprida. A condição que Lula impôs foi atendida: o Senado
+      aprovou a PEC da Segurança Pública por 75 a 0 em 03/11/2026, e o texto vai à promulgação. O governo
+      prepara uma medida provisória para separar a pasta do Ministério da Justiça ainda em novembro.
+    fontes:
       - titulo: Confira as promessas de Lula em caso de reeleição — O Povo
         url: https://www.opovo.com.br/noticias/politica/eleicoes/2026/10/24/confira-as-promessas-de-lula-em-caso-de-reeleicao.html
+      - titulo: Senado aprova PEC da Segurança Pública sem redução da maioridade penal — Agência Brasil
+        url: https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/senado-aprova-pec-da-seguranca-publica-sem-reducao-da-maioridade-penal
+      - titulo: Após eleições, foco de Lula é consolidar Ministério da Segurança este mês — Metrópoles
+        url: https://www.metropoles.com/brasil/apos-eleicoes-foco-de-lula-e-consolidar-ministerio-da-seguranca-este-mes
     verificado: true
 
   - titulo: Transformar 138 presídios estaduais em prisões de segurança máxima
     tema: Segurança
     status: nao_iniciada
-    fontes: *opovo
+    fontes: &opovo
+      - titulo: Confira as promessas de Lula em caso de reeleição — O Povo
+        url: https://www.opovo.com.br/noticias/politica/eleicoes/2026/10/24/confira-as-promessas-de-lula-em-caso-de-reeleicao.html
     verificado: true
 
   - titulo: Universalizar o Pé-de-Meia no ensino médio público e levá-lo ao ensino superior (R$ 700/mês)
