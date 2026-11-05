@@ -1,8 +1,8 @@
 ---
 titulo: "A conta chegou: dólar, Selic travada e o maior juro real do mundo"
-descricao: Dez dias depois da reeleição, o dólar disparou, o Banco Central parou de cortar juros e o Brasil voltou ao topo do ranking de juro real. A campanha prometeu gasto novo; agora alguém vai ter que pagar.
+descricao: Dez dias depois da reeleição, o dólar disparou, o Banco Central parou de cortar juros e o Brasil voltou ao topo do ranking de juro real. A campanha prometeu gasto novo; agora alguém vai ter que pagar. E, para quem tem dinheiro guardado, onde ele rende mais.
 data: 2026-11-05
-tags: [contas públicas, Selic, juros, Lula, mercado, promessas]
+tags: [contas públicas, Selic, juros, Lula, mercado, promessas, investimentos]
 ---
 
 A eleição foi em 25 de outubro. Em dez dias, três recados chegaram ao governo, e os três dizem a mesma
@@ -96,6 +96,59 @@ Juro alto não é problema só de banqueiro. Ele chega em todo mundo:
 É um círculo: promessa de gasto sem fonte → dólar sobe → inflação esperada sobe → Banco Central segura
 os juros → dívida e crédito ficam mais caros → sobra menos dinheiro para cumprir as promessas.
 
+## E quem tem dinheiro, onde coloca?
+
+Juro alto é ruim para o país, mas é bom para quem tem dinheiro guardado. Algumas ideias gerais, de quem
+acompanha o assunto. **Não é recomendação de investimento**: cada pessoa tem prazo, renda e tolerância a
+risco diferentes, e vale conversar com um profissional certificado antes de decidir.
+
+**1. Antes de investir, pague a dívida cara.** Nenhuma aplicação rende o que o cartão de crédito rotativo
+e o cheque especial cobram. Quitar essas dívidas é o melhor "investimento" disponível.
+
+**2. Tire o dinheiro da poupança.** Com a Selic acima de 8,5%, a poupança fica travada em 0,5% ao mês mais
+TR. Numa simulação da XP publicada pelo InfoMoney, com a Selic parada em 13,75%, R$ 10 mil rendem em 12
+meses:
+
+| Aplicação | Valor depois de 12 meses (líquido) |
+|---|---|
+| Poupança | R$ 10.755 |
+| Tesouro Selic | R$ 11.116 |
+| CDB a 100% do CDI | R$ 11.121 |
+| LCI/LCA a 85% do CDI (isenta de IR) | R$ 11.155 |
+
+**3. Reserva de emergência: Tesouro Selic ou CDB com liquidez diária.** O Tesouro Selic é garantido pelo
+Tesouro Nacional e pode ser resgatado a qualquer dia. O CDB de liquidez diária de banco grande rende
+parecido. É o lugar do dinheiro que você pode precisar amanhã.
+
+**4. LCI e LCA para o dinheiro que pode ficar parado alguns meses.** São isentas de Imposto de Renda para
+pessoa física e têm carência mínima de 90 dias. Em 2025, o governo tentou tributá-las por medida
+provisória, que caducou no Congresso; o tema deve voltar, mas a expectativa é que quem já aplicou mantenha
+a isenção.
+
+**5. Travar o juro alto para o longo prazo.** Depois da eleição, o Tesouro IPCA+ 2032 passou a pagar perto
+de **IPCA + 8% ao ano**, e o prefixado 2032, cerca de **15%**. Quem compra e leva até o vencimento garante
+essa taxa, e o IPCA+ ainda protege contra a inflação, que é justamente o risco descrito neste texto. O
+cuidado: o preço desses títulos oscila todo dia (a chamada marcação a mercado), e quem precisar vender
+antes do vencimento pode perder dinheiro. Só serve para dinheiro que não vai ser usado por anos.
+
+**6. Desconfie de taxa boa demais.** O FGC (Fundo Garantidor de Créditos) cobre CDB, LCI, LCA e poupança
+até **R$ 250 mil por CPF em cada instituição**, com teto de R$ 1 milhão a cada quatro anos. O que passar
+disso fica exposto. O caso do Banco Master é o exemplo: o banco oferecia CDB de até 140% do CDI, foi
+liquidado pelo Banco Central, e o FGC teve que ressarcir cerca de 1,6 milhão de clientes, num valor
+estimado em R$ 41 bilhões. Escrevi sobre o caso em [Sigilos, Vorcaro e a mesma lei para todos](../sigilos-vorcaro-mesma-lei/).
+Se for para banco médio ou pequeno, respeite o limite do FGC.
+
+**7. Bolsa e dólar, com calma.** A bolsa caiu quase 14% num dia, e para quem pensa em cinco anos ou mais
+isso pode ser ponto de entrada. Mas com renda fixa pagando 13,75% sem risco, a bolsa precisa render muito
+mais para compensar, e o caminho deve ser volátil. Se entrar, que seja aos poucos e diversificado, por
+fundos de índice, e não em uma ação só. Com o dólar, a lógica é parecida: ter uma parte do patrimônio fora
+do real é um seguro contra o cenário fiscal piorar, mas comprar tudo de uma vez depois de uma alta de 8% é
+comprar caro. Melhor ir comprando aos poucos.
+
+Em resumo: na minha visão, o momento favorece renda fixa, garantida e bem distribuída, com uma parte
+travada em juro real alto para o longo prazo. Quem ganha com o juro alto é quem tem dinheiro aplicado;
+quem perde é quem deve. Mais um motivo para cobrar que o governo resolva a conta.
+
 ## Minha opinião
 
 Sim, os quatro anos vão ser pesados. A campanha prometeu mais gasto permanente (Bolsa Família maior,
@@ -147,3 +200,11 @@ pau" é fácil. Mostrar a lista é o que acalma o dólar e, com ele, os juros.
 - [Brasil segue com maior juro real do mundo após Copom manter Selic em 13,75% — Metrópoles](https://www.metropoles.com/brasil/brasil-segue-com-maior-juro-real-do-mundo-apos-copom-manter-selic-em-1375)
 - [Brasil segue com maior juro real do mundo, mesmo com manutenção da Selic — InfoMoney](https://www.infomoney.com.br/economia/brasil-lidera-ranking-juros-reais-copom/)
 - [Brasil continua com o maior juro real do mundo após Copom manter Selic; veja ranking — Exame](https://exame.com/brasil/brasil-continua-com-o-maior-juro-real-do-mundo-apos-copom-manter-selic-em-1375-veja-ranking/)
+
+**Onde investir**
+- [Selic fica em 13,75%: veja quanto rendem R$ 10 mil em CDB, Tesouro Selic e poupança — InfoMoney](https://www.infomoney.com.br/onde-investir/selic-fica-em-1375-veja-quanto-rendem-r-10-mil-em-cdb-tesouro-selic-e-poupanca/)
+- [Tesouro IPCA+ sobe para perto de 8% e prefixado passa de 15%: hora de comprar? — InvestNews](https://investnews.com.br/investimentos/tesouro-ipca-perto-8-vale-comprar/)
+- [LCIs e LCAs passam a pagar menos em 2026, com fim da isenção de volta ao radar — InfoMoney](https://www.infomoney.com.br/?p=3419232)
+- [Lei 11.033/2004 (isenção de IR em LCI e LCA para pessoa física) — Planalto](https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l11.033.htm)
+- [Entenda as liquidações do Banco Master e da Reag — Agência Brasil](https://agenciabrasil.ebc.com.br/economia/noticia/2026-01/entenda-liquidacoes-do-banco-master-e-da-reag)
+- [Como ficam os investidores com CDBs no Banco Master após a liquidação — Metrópoles](https://www.metropoles.com/negocios/como-ficam-os-investidores-com-cdbs-no-banco-master-apos-a-liquidacao)
