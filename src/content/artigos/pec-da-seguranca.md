@@ -1,8 +1,8 @@
 ---
 titulo: A PEC da Segurança passou. Era isso que a gente queria?
-descricao: O Senado aprovou por unanimidade a PEC da Segurança Pública, sem a maioridade penal. Lula agora corre para cumprir promessas, mas a conta da campanha chega junto, e os próximos quatro anos começam no vermelho.
-data: 2026-11-05
-tags: [segurança pública, PEC da Segurança, Lula, contas públicas, maioridade penal, promessas]
+descricao: O Senado aprovou por unanimidade a PEC da Segurança Pública, sem a maioridade penal. É um avanço de arquitetura, não uma solução. E agora Lula não tem mais desculpa para não criar o Ministério da Segurança.
+data: 2026-11-04
+tags: [segurança pública, PEC da Segurança, Lula, maioridade penal, promessas]
 ---
 
 Na terça-feira, 3 de novembro, o Senado aprovou a PEC da Segurança Pública em dois turnos: **73 a 0** no
@@ -83,59 +83,17 @@ atrás de Flávio Bolsonaro no primeiro turno, a campanha endureceu o tom: lanç
 "Para o cidadão proteção. Para o bandido, prisão", e Lula prometeu criar o ministério "imediatamente"
 depois da aprovação.
 
-Agora o prazo chegou. Segundo o Metrópoles, o governo prepara uma medida provisória para separar a pasta
-do Ministério da Justiça ainda em novembro, sem criar cargos novos por enquanto, a não ser o do ministro. O
-nome preferido de Lula seria o promotor paulista Lincoln Gakiya, conhecido por enfrentar o PCC.
+Agora o prazo chegou, e a desculpa acabou. Segundo o Metrópoles, o governo prepara uma medida provisória
+para separar a pasta do Ministério da Justiça ainda em novembro, sem criar cargos novos por enquanto, a não
+ser o do ministro. O nome preferido de Lula seria o promotor paulista Lincoln Gakiya, conhecido por
+enfrentar o PCC.
 
 Se sair do papel em novembro, é a primeira promessa do quarto mandato cumprida antes mesmo de ele
 começar. Vou acompanhar na [página de promessas do quarto mandato](../../mandatos/lula-4/).
 
-O problema é que a segurança é a parte barata da lista.
-
-## A conta que chegou junto
-
-A eleição foi em 25 de outubro. Na segunda-feira seguinte, 26, o mercado reagiu à reeleição com um dos
-piores pregões da história: o **dólar subiu 8,21%**, para R$ 5,40, a maior alta em um dia desde janeiro de
-1999, e o **Ibovespa caiu 13,88%**, com circuit breaker, o primeiro desde março de 2020. Parte da
-alta foi devolvida nos dias seguintes, mas o recado ficou dado.
-
-O motivo é a conta. Escrevi em [O pacote da reeleição](../pacote-da-reeleicao/) que as medidas de 2026
-somavam R$ 298,4 bilhões, segundo a Instituição Fiscal Independente (IFI), do Senado. Agora vieram os
-números para os próximos anos:
-
-- **R$ 40 bilhões** de gasto novo em 2027 que não está no Orçamento, só com o reajuste do Bolsa Família,
-  o fim das bets e as medidas para MEI, segundo a IFI. Ficam de fora o Pé-de-Meia universitário e a tarifa
-  zero no transporte aos fins de semana, que aumentam a conta. Um levantamento do Estadão chegou a
-  **R$ 39,8 bilhões**, número parecido.
-- O déficit primário pode chegar a **1% do PIB em 2027**, quando a meta oficial é superávit de 0,5%.
-- Para a dívida parar de crescer, o país precisaria de superávit de **2,1% do PIB**, ou até 2,9% com
-  juros mais altos. É um ajuste de cerca de três pontos do PIB.
-- A dívida pública já passa de **82% do PIB**.
-
-A resposta do governo, por enquanto: o Ministério do Planejamento diz que vai remanejar R$ 20 bilhões do
-Orçamento de 2027 e cobrir o resto revendo estimativas de gastos obrigatórios. O ministro da Fazenda,
-Dario Durigan, já admitiu que o desequilíbrio não se resolve no primeiro ano e que não haverá "cavalo de
-pau". E Lula marcou um pronunciamento em rede nacional para domingo, 8 de novembro, para falar de ajuste
-fiscal, prometendo ao mesmo tempo cumprir as metas e não abandonar as promessas de campanha.
-
-É o mesmo Lula que, segundo o Estadão, chamou de "babaquice" fazer superávit primário durante a campanha.
-
-## Minha opinião
-
-Sim, os quatro anos vão ser pesados. E não por causa da PEC da Segurança, que custa pouco perto do resto.
-
-A conta é simples: a campanha prometeu mais gasto permanente (Bolsa Família maior, Pé-de-Meia na
-faculdade, tarifa zero, perdão de MEI, fim da arrecadação das bets), e agora o governo precisa mostrar ao
-mercado que vai cortar. As duas coisas não cabem juntas. Alguma vai ceder:
-
-1. **Ou as promessas encolhem**, e o eleitor que votou nelas descobre que eram menores do que pareciam;
-2. **Ou o ajuste não vem**, e a conta aparece como dólar alto, juros altos e inflação, que pesam mais
-   justamente no bolso de quem recebe Bolsa Família.
-
-Lula tem méritos por aprovar a PEC e por, ao que tudo indica, cumprir rápido a promessa do ministério. Mas
-"focar em cumprir" é fácil quando a promessa é criar um ministério sem cargos novos. O teste de verdade é
-o pronunciamento de domingo e o Orçamento de 2027: ver o que ele vai cortar, e se vai ter coragem de dizer
-isso com a mesma clareza com que prometeu na campanha.
+Mas é bom não confundir: criar um ministério sem cargos novos é a parte fácil, e barata, da lista de
+promessas. A parte cara é outra conversa, e escrevi sobre ela em
+[A conta chegou](../a-conta-do-quarto-mandato/).
 
 ## O que cobrar
 
@@ -143,8 +101,6 @@ isso com a mesma clareza com que prometeu na campanha.
    públicas (homicídios, esclarecimento de crimes, presos de facção em segurança máxima).
 2. **Regulamentação da PEC** em lei, com prazo, para o SUSP não ficar só no papel.
 3. **Votação da maioridade penal** em separado, como foi combinado, e não engavetada depois da eleição.
-4. **Um plano fiscal de quatro anos**, como pede a IFI, dizendo quais promessas serão cumpridas, quando e
-   com que dinheiro.
 
 ## Fontes
 
@@ -164,13 +120,3 @@ isso com a mesma clareza com que prometeu na campanha.
 - [Aprovação da PEC da Segurança abre caminho para Lula criar ministério — CNN Brasil](https://www.cnnbrasil.com.br/politica/aprovacao-da-pec-da-seguranca-abre-caminho-para-lula-criar-ministerio/)
 - [Após eleições, foco de Lula é consolidar Ministério da Segurança este mês — Metrópoles](https://www.metropoles.com/brasil/apos-eleicoes-foco-de-lula-e-consolidar-ministerio-da-seguranca-este-mes)
 - [Lula comemora aprovação de PEC da Segurança Pública e reafirma criação de ministério — Agência Gov](https://agenciagov.ebc.com.br/noticias/lula-comemora-aprovacao-de-pec-da-seguranca-publica-e-reafirma-criacao-de-ministerio)
-
-**A conta**
-- [Dólar sobe 8,21%, e bolsa cai 13,88% após reeleição de Lula — Agência Brasil](https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-sobe-821-e-bolsa-cai-1388-apos-reeleicao-de-lula)
-- [Ibovespa desaba 13% após eleição, em dia de circuit breaker; dólar dispara 8% — InfoMoney](https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-26102026/)
-- [Instituto prevê impacto fiscal de R$ 40 bilhões com medidas de Lula — Agência Brasil](https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/instituto-preve-impacto-fiscal-de-r-40-bilhoes-com-medidas-de-lula)
-- [IFI estima déficit primário de 1% do PIB em 2027 — Poder360](https://www.poder360.com.br/poder-economia/ifi-estima-deficit-primario-de-1-do-pib-em-2027/)
-- [IFI prevê déficit de R$ 145 bilhões em 2027 e alerta para desequilíbrio fiscal — TV Senado](https://www12.senado.leg.br/tv/programas/noticias-1/2026/10/ifi-preve-deficit-de-r-145-bilhoes-em-2027-e-alerta-para-desequilibrio-fiscal)
-- [Lula fará pronunciamento para anunciar medidas de ajuste e tentar acalmar mercado — InfoMoney/Estadão](https://www.infomoney.com.br/politica/lula-fara-pronunciamento-para-anunciar-medidas-de-ajuste-e-tentar-acalmar-mercado/)
-- [O que Lula já disse sobre ajuste fiscal e o que falta esclarecer para o 4º mandato — InfoMoney](https://www.infomoney.com.br/politica/o-que-lula-ja-disse-sobre-ajuste-fiscal-e-o-que-falta-esclarecer-para-o-4o-mandato/)
-- [Lula fará pronunciamento na TV sobre ajuste fiscal e contas públicas — Correio Braziliense](https://www.correiobraziliense.com.br/economia/2026/11/7533249-lula-fara-pronunciamento-na-tv-sobre-ajuste-fiscal-e-contas-publicas.html)
