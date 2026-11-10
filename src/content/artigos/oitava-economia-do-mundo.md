@@ -40,6 +40,29 @@ mudou: foi o real que subiu e caiu.
 Com tanta gente, seria estranho não ter uma economia grande. A pergunta certa é quanto essa economia
 produz por pessoa.
 
+## Nos sites aliados, a projeção já virou conquista
+
+No discurso oficial, o 8º lugar aparece como algo que "caminha para" acontecer. Nos sites alinhados ao
+governo, a previsão do FMI vira feito de Lula já no título:
+
+- **Portal Vermelho** (ligado ao PCdoB, partido da base do governo), 16 de outubro de 2026: *"Brasil
+  cresce com Lula e volta ao top 8 das maiores economias em 2027"*. O subtítulo diz que Lula "herdou o País
+  de Jair Bolsonaro na décima segunda posição" e "fez o PIB crescer e avançar no ranking do FMI". Só no
+  corpo do texto aparece que se trata de projeção.
+- **Contee** (confederação de trabalhadores do ensino), reproduzindo o Vermelho, 6 de novembro de 2023:
+  *"Com Lula, Brasil será a 8ª maior economia do mundo, diz FMI"*. A previsão daquela vez era para
+  **2026**, com PIB de US$ 2,476 trilhões.
+
+Os números do FMI não sustentam nem uma coisa nem outra:
+
+- **A promessa de 2023 não se cumpriu.** O Brasil não vai fechar 2026 em 8º, e sim em **10º**. A meta foi
+  simplesmente empurrada para 2027, e quem leu só o título de três anos atrás acha que ela já foi cumprida.
+- **O "avanço no ranking" no terceiro mandato é quase nulo até agora.** Pela série atual do FMI, o Brasil
+  fechou 2022, último ano de Bolsonaro, em **11º**. Subiu para 10º em 2023, voltou para 11º em 2024 e em
+  2025, e deve fechar 2026 em 10º. O salto para o 8º lugar ainda é só uma previsão.
+- **"Com Lula" é escolha de título, não conclusão do FMI.** O Fundo projeta números; não atribui a posição
+  a nenhum governo. E, como mostrado acima, a maior parte da subida em dólar vem do câmbio.
+
 ## Por habitante, o Brasil fica em 84º
 
 Dividindo o PIB pela população, o retrato é outro. Pelo FMI:
@@ -128,8 +151,13 @@ período, o PIB por habitante cresceu 92% na China, 80% na Índia e 30% na Corei
 
 ## Minha opinião
 
-Não chamo a frase de mentira, porque o FMI de fato projeta o Brasil em oitavo. Chamo de propaganda: escolhe o
-indicador que fica bonito na TV e esconde os que mostram a vida real. Um ranking que depende do dólar mede a
+Não chamo a frase do pronunciamento de mentira, porque o FMI de fato projeta o Brasil em oitavo. Chamo de
+propaganda: escolhe o indicador que fica bonito na TV e esconde os que mostram a vida real.
+
+Nas redes sociais, a coisa vai além. Encontramos perfis governistas falando como se Lula já tivesse
+colocado o Brasil em 8º, sem a palavra "projeção" em lugar nenhum. Aí, sim, é vender como fato algo que
+o FMI nunca confirmou: hoje o Brasil é o 10º, e o 8º lugar é uma previsão para 2027, feita antes da alta
+do dólar, e que pode não se cumprir, como não se cumpriu a de 2026. Um ranking que depende do dólar mede a
 cotação do real, não o bem-estar das famílias. E esse ranking subiu e caiu nos governos de todos os
 partidos, sempre pelo mesmo motivo.
 
@@ -163,7 +191,12 @@ PIB.
 - [FMI: Brasil deve voltar à 8ª posição de maior economia do mundo em 2027 — CNN Brasil](https://www.cnnbrasil.com.br/economia/money/macroeconomia/fmi-brasil-deve-se-voltar-a-8a-posicao-de-maior-economia-do-mundo-em-2027/)
 - [Sustentar posição no ranking do FMI é desafio para Brasil, diz economista — CNN Brasil](https://www.cnnbrasil.com.br/economia/money/macroeconomia/sustentar-posicao-no-ranking-do-fmi-e-desafio-para-brasil-diz-economista/)
 - [Ilusão cambial? O que Lula terá que fazer para levar o Brasil ao 8º lugar entre as maiores economias — Forbes Brasil](https://forbes.com.br/forbes-money/2026/10/brasil-8-maior-economia-pib-2027-desafio-fiscal/)
+- [Checamos a entrevista de Lula à TV Globo — Aos Fatos](https://www.aosfatos.org/noticias/checamos-lula-globo-segundo-turno/)
 - [Dólar sobe 8,21%, e bolsa cai 13,88% após reeleição de Lula — Agência Brasil](https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-sobe-821-e-bolsa-cai-1388-apos-reeleicao-de-lula)
+
+**Como os sites aliados apresentam o ranking** (citados como exemplo do discurso, não como fonte dos números)
+- [Brasil cresce com Lula e volta ao top 8 das maiores economias em 2027 — Portal Vermelho, 16/10/2026](https://vermelho.org.br/2026/10/16/brasil-cresce-com-lula-e-volta-ao-top-8-das-maiores-economias-em-2027/)
+- [Com Lula, Brasil será a 8ª maior economia do mundo, diz FMI — Contee, 6/11/2023](https://contee.org.br/com-lula-brasil-sera-a-8a-maior-economia-do-mundo-diz-fmi/)
 
 **Dados oficiais (rankings, PIB por habitante, investimento, pesquisa)**
 - [FMI — PIB em dólares correntes (World Economic Outlook, out/2026)](https://www.imf.org/external/datamapper/NGDPD@WEO/OEMDC/ADVEC/WEOWORLD)
