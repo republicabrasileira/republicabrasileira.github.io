@@ -51,10 +51,13 @@ transferência de dados e aplicativos e características de segurança dos apare
 
 A reação veio dos dois lados, o que já diz alguma coisa:
 
-- o deputado **Nikolas Ferreira (PL-MG)** entrou com ação popular para barrar o contrato, disse que vai
+- o deputado **Nikolas Ferreira (PL-MG)** anunciou uma ação popular para barrar o contrato, disse que vai
   levar o caso ao TCU e chamou a compra de "um atentado à moralidade administrativa";
 - a deputada **Duda Salabert (PSOL-MG)** disse que a medida é deboche com a população;
 - o deputado **Pastor Henrique Vieira (PSOL-RJ)** chamou de "bolsa iPhone".
+
+Até a noite desta terça-feira, o pregão **continuava aberto**. Não havia decisão judicial nem do TCU
+suspendendo a licitação, e o Senado não tinha recuado.
 
 ## Isso é "o governo"?
 

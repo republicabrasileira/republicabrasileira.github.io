@@ -33,8 +33,9 @@ promessas:
     status: em_andamento
     analise: >-
       Promessa repetida de 2022, quando não foi cumprida. A condição que Lula impôs foi atendida: o Senado
-      aprovou a PEC da Segurança Pública por 75 a 0 em 03/11/2026, e o texto vai à promulgação. O governo
-      prepara uma medida provisória para separar a pasta do Ministério da Justiça ainda em novembro.
+      aprovou a PEC da Segurança Pública por 75 a 0 em 03/11/2026, e o texto vai à promulgação. Em
+      05/11/2026, Lula anunciou que vai criar o ministério por medida provisória, separando a pasta do
+      Ministério da Justiça. Até 10/11/2026, a MP ainda não tinha sido publicada no Diário Oficial.
     fontes:
       - titulo: Confira as promessas de Lula em caso de reeleição — O Povo
         url: https://www.opovo.com.br/noticias/politica/eleicoes/2026/10/24/confira-as-promessas-de-lula-em-caso-de-reeleicao.html
@@ -42,6 +43,8 @@ promessas:
         url: https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/senado-aprova-pec-da-seguranca-publica-sem-reducao-da-maioridade-penal
       - titulo: Após eleições, foco de Lula é consolidar Ministério da Segurança este mês — Metrópoles
         url: https://www.metropoles.com/brasil/apos-eleicoes-foco-de-lula-e-consolidar-ministerio-da-seguranca-este-mes
+      - titulo: Lula vai criar Ministério da Segurança Pública com Medida Provisória — Agência Brasil
+        url: https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-vai-criar-ministerio-da-seguranca-publica-com-medida-provisoria
     verificado: true
 
   - titulo: Transformar 138 presídios estaduais em prisões de segurança máxima
@@ -55,7 +58,14 @@ promessas:
   - titulo: Universalizar o Pé-de-Meia no ensino médio público e levá-lo ao ensino superior (R$ 700/mês)
     tema: Educação
     status: nao_iniciada
-    fontes: *opovo
+    analise: >-
+      Reafirmada no pronunciamento em rede nacional de 08/11/2026, ainda sem estimativa oficial de custo
+      para a versão universitária.
+    fontes:
+      - titulo: Confira as promessas de Lula em caso de reeleição — O Povo
+        url: https://www.opovo.com.br/noticias/politica/eleicoes/2026/10/24/confira-as-promessas-de-lula-em-caso-de-reeleicao.html
+      - titulo: Pronunciamento do presidente Lula à nação, 08/11/2026 — Planalto
+        url: https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/discursos-e-pronunciamentos/2026/11/pronunciamento-do-presidente-lula-a-nacao
     verificado: true
 
   - titulo: Ensino em tempo integral em todas as escolas públicas
@@ -91,14 +101,52 @@ promessas:
 
   - titulo: Zerar impostos sobre a cesta básica e ampliar o cashback de impostos
     tema: Custo de vida
-    status: nao_iniciada
-    fontes: *opovo
+    status: em_andamento
+    analise: >-
+      Boa parte já está aprovada: a reforma tributária (Lei Complementar 214/2025, do 3º mandato) zera a CBS
+      e o IBS sobre os alimentos da Cesta Básica Nacional e cria o cashback para famílias de baixa renda. A
+      CBS começa a ser cobrada em janeiro de 2027, e o cashback da CBS vale a partir daí (o do IBS, a partir de
+      2029). A cobrança agora é a implantação no prazo e o que, de fato, será "ampliado" além do que a lei
+      já prevê.
+    fontes:
+      - titulo: Confira as promessas de Lula em caso de reeleição — O Povo
+        url: https://www.opovo.com.br/noticias/politica/eleicoes/2026/10/24/confira-as-promessas-de-lula-em-caso-de-reeleicao.html
+      - titulo: Lei Complementar 214/2025 (IBS, CBS, cesta básica e cashback) — Planalto
+        url: https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214.htm
+      - titulo: "Reforma Tributária: guia completo sobre IBS, CBS e o que muda de 2026 a 2033 — InfoMoney"
+        url: https://www.infomoney.com.br/guias/reforma-tributaria-guia-completo-sobre-ibs-cbs-e-o-que-muda/
     verificado: true
 
   - titulo: Criar polos industriais de refino de terras raras
     tema: Soberania
     status: nao_iniciada
     fontes: *opovo
+    verificado: true
+
+  - titulo: Comprar a dívida das famílias junto aos bancos
+    tema: Custo de vida
+    status: nao_iniciada
+    analise: >-
+      Anunciada no pronunciamento em rede nacional de 08/11/2026, sem detalhes de tamanho, custo, prazo ou
+      fonte do dinheiro.
+    fontes:
+      - titulo: Pronunciamento do presidente Lula à nação, 08/11/2026 — Planalto
+        url: https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/discursos-e-pronunciamentos/2026/11/pronunciamento-do-presidente-lula-a-nacao
+      - titulo: Em pronunciamento, Lula promete criar condições para reduzir taxa de juros — Exame
+        url: https://exame.com/brasil/em-pronunciamento-lula-promete-criar-condicoes-para-reduzir-taxa-de-juros/
+    verificado: true
+
+  - titulo: Elevar o investimento do país para mais de 20% do PIB
+    tema: Economia
+    status: nao_iniciada
+    analise: >-
+      Anunciada no pronunciamento de 08/11/2026. Ponto de partida: a taxa de investimento foi de 17,1% do
+      PIB em 2025, segundo o Banco Mundial. A última vez que o país ficou acima de 20% foi em 2014 (20,5%).
+    fontes:
+      - titulo: Pronunciamento do presidente Lula à nação, 08/11/2026 — Planalto
+        url: https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/discursos-e-pronunciamentos/2026/11/pronunciamento-do-presidente-lula-a-nacao
+      - titulo: Formação bruta de capital, % do PIB — Banco Mundial
+        url: https://data.worldbank.org/indicator/NE.GDI.TOTL.ZS?locations=BR
     verificado: true
 
   - titulo: Desmatamento líquido zero até 2030
