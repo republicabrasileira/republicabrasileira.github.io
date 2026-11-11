@@ -1,7 +1,8 @@
 ---
 titulo: "Imposto do pecado: pecado de quem?"
-descricao: O governo publicou a medida provisória que define o Imposto Seletivo, o "imposto do pecado". Carro entrou na lista, refrigerante paga e o açúcar puro tem imposto zero. Em 2027 a promessa é não aumentar a carga, mas a conta de R$ 42 bilhões, o risco de contrabando e o que vem em 2028 dizem muito sobre o objetivo real.
+descricao: O governo publicou a medida provisória que define o Imposto Seletivo, o "imposto do pecado". Carro entrou na lista, refrigerante paga, o açúcar puro tem imposto zero e a loteria do próprio governo paga só 0,5%. Em 2027 a promessa é não aumentar a carga, mas a conta de R$ 42 bilhões, o risco de contrabando e o que vem em 2028 dizem muito sobre o objetivo real.
 data: 2026-11-09
+atualizado: 2026-11-10
 tags: [impostos, reforma tributária, Imposto Seletivo, custo de vida, contrabando, contas públicas]
 ---
 
@@ -177,6 +178,55 @@ O mesmo vale para bebidas: com o fator de 1,45 sobre importados, o uísque ou o 
 fronteira sem nota fica ainda mais competitivo. Quem ganha com isso não é a saúde pública. É o crime
 organizado, que vende sem imposto, sem controle de qualidade e sem pagar ninguém.
 
+## E a loteria? O "tigrinho" do governo paga só 0,5%
+
+Na lista do "pecado", a menor alíquota de todas é a dos **concursos de prognósticos**: Mega-Sena, Lotofácil,
+Loteca e outras apostas pagam **0,5%**. Menos que o refrigerante (2,6%) e oito vezes menos que a cerveja
+(4,2%). A categoria inclui também as apostas; as bets estão proibidas desde outubro por medida provisória,
+que ainda precisa ser aprovada pelo Congresso.
+
+Faz sentido que o jogo, que o próprio governo comparou a um câncer quando proibiu as bets (escrevi sobre
+isso em [O fim das bets](../fim-das-bets/)), seja o "pecado" mais barato da lista? A explicação está em quem
+é o dono da banca. As loterias federais são um monopólio da União, operado pela Caixa, e o dinheiro já vai
+quase todo para o governo antes de qualquer imposto. Pela tabela oficial da Caixa, cada R$ 100 apostados na
+Mega-Sena se dividem assim:
+
+| Para onde vai | De cada R$ 100 apostados |
+|---|---|
+| Prêmio (antes do Imposto de Renda) | R$ 43,79 |
+| Seguridade Social | R$ 17,32 |
+| Fundo Nacional de Segurança Pública | R$ 6,80 |
+| Fundo Penitenciário Nacional | R$ 3,00 |
+| Fundo Nacional da Cultura | R$ 2,91 |
+| Esporte (ministério, secretarias estaduais, COB, CPB e confederações) | R$ 7,05 |
+| Custeio (comissão dos lotéricos e despesas da Caixa) | R$ 19,13 |
+
+E do prêmio ainda sai **30% de Imposto de Renda**, retido na fonte. No fim, de cada R$ 100 apostados, só
+cerca de **R$ 31** voltam para o bolso de quem ganha. A casa sempre ganha, e a casa é o governo. Cobrar um
+Imposto Seletivo alto da loteria seria o governo tirando de um bolso para pôr no outro. Por isso o 0,5%.
+
+## O dinheiro do "pecado" volta como serviço?
+
+Aqui está a pergunta que importa: se o imposto existe porque o produto faz mal, o dinheiro deveria voltar
+para tratar o mal que ele causa. Não é o que acontece.
+
+- **O Imposto Seletivo não tem destino carimbado.** Pelo que foi divulgado da MP, nada obriga que os
+  R$ 42 bilhões vão para o SUS, para tratar quem adoece pelo cigarro, ou para a fiscalização de fronteira.
+  O dinheiro entra no Orçamento e é repartido com estados e municípios, como acontecia com o IPI. Pode
+  pagar qualquer despesa.
+- **Mesmo o dinheiro carimbado escapa.** A parte das loterias que vai para a Seguridade Social é, pela
+  Constituição, uma contribuição social. E a **DRU**, a Desvinculação de Receitas da União, permite ao
+  governo usar livremente **30%** das contribuições sociais. Ela existe desde 2000 e foi prorrogada pela
+  Emenda Constitucional 135, de dezembro de 2024, até **2032**.
+- **E o que fica carimbado, às vezes fica parado.** O Fundo Penitenciário Nacional, que tem nas loterias a
+  sua principal fonte, foi tão contingenciado que o **STF, em 2015, mandou a União liberar o saldo
+  acumulado e proibiu novos bloqueios**, decisão confirmada em 2023. Mesmo assim, um parecer na Câmara
+  registra que só 12% do orçamento liberado do fundo chegou a ser gasto.
+
+Não estou falando de corrupção, que precisa de prova. Estou falando de algo legal e, por isso mesmo, mais
+grave: um sistema em que o dinheiro cobrado em nome da saúde, da segurança e do povo pode ser usado para
+outra coisa, ou ficar parado no caixa para melhorar o resultado das contas.
+
 ## Pecado para quem?
 
 Imposto sobre consumo pesa mais, proporcionalmente, no bolso de quem ganha menos. O rico gasta uma parte
@@ -202,6 +252,13 @@ e a decisão de 2028 vai ser tomada por um governo com um rombo para fechar e pr
 pagar. O pecado, no fim, pode não ser de quem bebe um refrigerante. Pode ser de quem gasta mais do que
 arrecada e procura no consumidor a conta que não quer cortar na própria casa.
 
+E a própria casa dá o exemplo. Na mesma semana em que o país discute quem vai pagar o ajuste, o Senado
+abriu uma licitação de R$ 6 milhões para 425 celulares, com 95 iPhones de última geração para senadores e
+diretores, trocados a cada dois anos (escrevi sobre isso em
+[iPhone 18 Pro para senador](../iphones-do-senado/)). O Senado não é o governo Lula, mas o dinheiro é o
+mesmo: sai do imposto que o brasileiro paga no cigarro, na cerveja, no refrigerante e no carro. Quem cobra
+"imposto do pecado" do cidadão deveria começar confessando os próprios.
+
 ## O que cobrar
 
 1. **Que as alíquotas de 2028 não sejam usadas para fechar o rombo fiscal.** Se o imposto é de saúde, o
@@ -212,6 +269,22 @@ arrecada e procura no consumidor a conta que não quer cortar na própria casa.
    aumento não vire presente para o contrabando.
 4. **Transparência sobre a carga em 2027**: publicar, produto por produto, a comparação entre o IPI de hoje
    e o Imposto Seletivo de fevereiro, para que qualquer um confira se a carga ficou mesmo igual.
+5. **Dinheiro do "pecado" para o "pecado"**: que uma parte do Imposto Seletivo seja carimbada para a saúde
+   e a fiscalização de fronteira, sem DRU e sem contingenciamento, com relatório anual de onde foi gasto.
+
+## Uma pergunta para terminar
+
+Há duas semanas, em 25 de outubro, **51,79% dos votos válidos** reelegeram Lula. Foi uma maioria que foi às
+ruas e às urnas acreditando em mais renda, comida mais barata e um governo que cuidaria de quem tem menos.
+
+Onde está essa maioria agora? Quinze dias depois, a mesma família que ouve de Lula, desde 2022, a promessa
+da picanha e da cervejinha no fim de semana vai pagar o "imposto do pecado" no refrigerante dos filhos, na cerveja, no carro que usa para
+trabalhar, e vê o Senado comprar iPhone de última geração com o dinheiro dela. O imposto não pergunta em
+quem você votou. Chega para todos.
+
+Voto não é cheque em branco. Quem elegeu o presidente tem, mais do que ninguém, o direito e o dever de
+cobrar dele o que foi prometido. Ficar em silêncio agora é deixar a conta, de novo, no bolso de quem menos
+pode pagar.
 
 ## Fontes
 
@@ -236,6 +309,18 @@ arrecada e procura no consumidor a conta que não quer cortar na própria casa.
 - [Regulamentação da reforma tributária é sancionada; conheça a nova lei — Agência Câmara](https://www.camara.leg.br/noticias/1127237-regulamentacao-da-reforma-tributaria-e-sancionada-conheca-a-nova-lei/)
 - [Carnes, pão e ovo terão alíquota zero com reforma tributária; veja lista — CNN Brasil](https://www.cnnbrasil.com.br/economia/macroeconomia/carnes-pao-e-ovo-terao-aliquota-zero-com-reforma-tributaria-veja-lista/)
 - [Lei Complementar 214/2025 — Planalto](https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp214.htm)
+
+**Loterias e destino do dinheiro**
+- [Confira as alíquotas do Imposto Seletivo que entrarão em vigor em fevereiro — InfoMoney](https://www.infomoney.com.br/politica/confira-as-aliquotas-do-imposto-seletivo-que-entrarao-em-vigor-em-fevereiro/)
+- [Governo publica MP das alíquotas do Imposto Seletivo para 2027 — Agência Brasil](https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/governo-publica-mp-das-aliquotas-do-imposto-seletivo-para-2027)
+- [Mega-Sena: destinação da arrecadação — Loterias Caixa](https://loterias.caixa.gov.br/Paginas/Mega-Sena.aspx)
+- [Mega-Sena 30 anos: o ganhador precisa pagar Imposto de Renda? — InfoMoney](https://www.infomoney.com.br/minhas-financas/mega-sena-30-anos-imposto-de-renda-regras/)
+- [MP 1.399/2026 institui Imposto Seletivo para 2027 (repartição com estados e municípios) — Comsefaz](https://comsefaz.org.br/novo/mp-1-399-2026-institui-imposto-seletivo-para-2027-com-aliquotas-de-ate-667-e-reducao-da-referencia-da-cbs/)
+- [Emenda Constitucional 135/2024 (prorroga a DRU até 2032) — Câmara dos Deputados](https://www2.camara.leg.br/legin/fed/emecon/2024/emendaconstitucional-135-20-dezembro-2024-796776-publicacaooriginal-173870-pl.html)
+- [Congresso promulga a Emenda Constitucional 135, do corte de gastos — Senado Notícias](https://www12.senado.leg.br/noticias/materias/2024/12/20/congresso-promulga-emenda-constitucional-do-corte-de-gastos)
+- [STF proíbe contingenciamento dos recursos do Fundo Clima (cita a decisão sobre o Funpen) — STF](https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=489997&ori=1)
+- [Plano Nacional Pena Justa (loterias como principal fonte do Funpen) — Ministério da Justiça](https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/pena-justa/plano-nacional-pena-justa.pdf)
+- [Parecer sobre o PDL 690/2019 (execução do Funpen) — Câmara dos Deputados](https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=1832058&filename=Tramitacao-PDL+690%2F2019)
 
 **Contrabando**
 - [Brasileiros ligam cigarro ilegal ao crime organizado, diz pesquisa — CNN Brasil](https://www.cnnbrasil.com.br/nacional/brasil/brasileiros-ligam-cigarro-ilegal-ao-crime-organizado-diz-pesquisa/)
