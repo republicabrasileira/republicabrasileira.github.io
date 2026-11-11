@@ -22,7 +22,8 @@ const links = [
   { href: url('/sobre/'), texto: 'Sobre' },
 ];
 const imagemCompartilhar = new URL(url('/logo/compartilhar.jpg'), Astro.site).href;
-const hoje =new Date().toLocaleDateString('pt-BR', { day: 'numeric', month: 'long', year: 'numeric' });
+// o build roda em servidor UTC; sem fuso explícito, depois das 21h de Brasília a data já vira o dia seguinte
+const hoje = new Date().toLocaleDateString('pt-BR', { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'America/Sao_Paulo' });
 ---
 
 <!doctype html>
