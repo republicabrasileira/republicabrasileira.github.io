@@ -2,6 +2,7 @@
 titulo: "A conta chegou: dólar, Selic travada e o maior juro real do mundo"
 descricao: Dez dias depois da reeleição, o dólar disparou, o Banco Central parou de cortar juros e o Brasil voltou ao topo do ranking de juro real. A campanha prometeu gasto novo; agora alguém vai ter que pagar. E, para quem tem dinheiro guardado, onde ele rende mais.
 data: 2026-11-05
+atualizado: 2026-11-10
 tags: [contas públicas, Selic, juros, Lula, mercado, promessas, investimentos]
 ---
 
@@ -82,6 +83,44 @@ E as projeções não animam. A XP espera a Selic em 13,75% até o fim de 2027; 
 partir de meados de 2027. Há quem fale até em alta, se o dólar não ceder. Um gestor ouvido pelo InfoMoney
 resumiu: sem sinal de responsabilidade fiscal, o país pode conviver com juros altos por mais tempo.
 
+## Atualização de 10/11: o pronunciamento, a ata e o recado de Galípolo
+
+Cinco dias depois deste texto, vieram mais três recados, e nenhum deles é bom.
+
+**O pronunciamento não trouxe cortes.** No domingo, 8 de novembro, Lula foi à TV e disse: "A trajetória da
+dívida pública e os juros altos me preocupam", prometendo "criar as condições para reduzir a taxa de
+juros". Mas, como registrou a Exame, não anunciou nenhuma medida concreta de corte de gastos. Pelo
+contrário: prometeu comprar dívidas das famílias junto aos bancos e repetiu as promessas de campanha.
+
+**A ata do Copom endureceu o tom.** Publicada nesta terça-feira, 10, a ata da reunião que segurou a Selic
+diz, com todas as letras: "em um ambiente de expectativas desancoradas, como é o caso do atual, exige-se
+uma restrição monetária maior e por mais tempo". O Banco Central volta a citar as incertezas sobre a
+estabilização da dívida pública e um eventual enfraquecimento da disciplina fiscal, e lista quatro choques
+que pressionam a inflação: petróleo em alta por causa do Oriente Médio, El Niño, o real desvalorizado e o
+**fim da escala 6x1**, pelo aumento do custo do trabalho.
+
+**Galípolo avisou que pode demorar anos.** No mesmo dia, num evento da Associação Brasileira de Câmbio, em
+São Paulo, o presidente do Banco Central, escolhido por Lula, foi direto:
+
+> "Credibilidade é construída com o tempo, não vai ter um atalho."
+
+> "Essa percepção de risco pode continuar por muitos anos. Períodos tranquilos curtos não conseguem
+> comprimir esse risco, pois a memória dos choques sustenta o prêmio."
+
+Ele também lembrou que **51% da dívida pública** já é corrigida pela Selic. Ou seja, mais da metade da
+dívida do governo fica mais cara a cada mês de juro alto.
+
+E o mercado respondeu no mesmo tom:
+
+| Indicador | Terça-feira, 10/11 | Comparação |
+|---|---|---|
+| Dólar | **R$ 5,58** | perto de R$ 5,00 antes do 2º turno |
+| Juros futuros (vencimentos de 2028 a 2035) | **entre 14% e 15% ao ano** | acima da própria Selic |
+| Selic | **13,75%** | sem previsão de corte |
+
+O dólar está acima até dos R$ 5,40 do dia seguinte à eleição. E, segundo o Metrópoles, o mercado já não
+espera ver a Selic abaixo de 10% durante o governo Lula e o mandato de Galípolo no Banco Central.
+
 ## Por que isso pesa no seu bolso
 
 Juro alto não é problema só de banqueiro. Ele chega em todo mundo:
@@ -90,7 +129,7 @@ Juro alto não é problema só de banqueiro. Ele chega em todo mundo:
   e da casa, e o capital de giro da pequena empresa.
 - **Menos emprego.** Empresa que paga caro para se financiar investe menos e contrata menos. O próprio
   Copom já vê a atividade desacelerando e o mercado de trabalho perdendo força.
-- **Dívida pública maior.** Uma parte grande da dívida do governo é corrigida pela Selic. Cada mês de
+- **Dívida pública maior.** Segundo Galípolo, 51% da dívida do governo é corrigida pela Selic. Cada mês de
   juro alto aumenta a conta que o próprio governo já não consegue fechar.
 
 É um círculo: promessa de gasto sem fonte → dólar sobe → inflação esperada sobe → Banco Central segura
@@ -163,9 +202,11 @@ Lula passou boa parte do terceiro mandato culpando o Banco Central de Campos Net
 mesmo assim parou de cortar. Isso deveria encerrar a discussão: os juros não estão altos por teimosia de
 alguém, estão altos porque o governo gasta mais do que arrecada e ninguém sabe como vai fechar a conta.
 
-O teste de verdade é o pronunciamento de domingo e o Orçamento de 2027: ver o que ele vai cortar, e se vai
-ter coragem de dizer isso com a mesma clareza com que prometeu na campanha. Falar em "ajuste sem cavalo de
-pau" é fácil. Mostrar a lista é o que acalma o dólar e, com ele, os juros.
+O teste de verdade era o pronunciamento de domingo e o Orçamento de 2027: ver o que ele vai cortar, e se
+vai ter coragem de dizer isso com a mesma clareza com que prometeu na campanha. O pronunciamento veio, e a
+lista de cortes não. A resposta chegou dois dias depois, no dólar a R$ 5,58 e num Banco Central avisando que
+a desconfiança pode durar anos. Falar em "ajuste sem cavalo de pau" é fácil. Mostrar a lista é o que acalma
+o dólar e, com ele, os juros. Ela continua faltando.
 
 ## O que cobrar
 
@@ -179,6 +220,14 @@ pau" é fácil. Mostrar a lista é o que acalma o dólar e, com ele, os juros.
    não mandou os substitutos ao Senado, deixando o Copom desfalcado.
 
 ## Fontes
+
+**Atualização de 10/11**
+- [Galípolo fala sobre juros, confiança e câmbio (10/11/2026) — g1](https://g1.globo.com/economia/noticia/2026/11/10/galipolo-juros-confianca-mercado-economia-cambio.ghtml)
+- [Galípolo diz que desconfiança na economia pode manter juros altos por anos — Metrópoles](https://www.metropoles.com/brasil/galipolo-diz-que-desconfianca-na-economia-pode-manter-juros-altos-por-anos)
+- [Galípolo diz que nível dos juros de longo prazo também reflete credibilidade — InfoMoney/Reuters](https://www.infomoney.com.br/economia/galipolo-diz-que-nivel-dos-juros-de-longo-prazo-tambem-reflete-credibilidade/)
+- [Ata do Copom indica que desaceleração da economia não conteve inflação — Agência Brasil](https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/ata-do-copom-indica-que-desaceleracao-da-economia-nao-conteve-inflacao)
+- [Pronunciamento do presidente Lula à nação, 08/11/2026 — Planalto](https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/discursos-e-pronunciamentos/2026/11/pronunciamento-do-presidente-lula-a-nacao)
+- [Em pronunciamento, Lula promete criar condições para reduzir taxa de juros — Exame](https://exame.com/brasil/em-pronunciamento-lula-promete-criar-condicoes-para-reduzir-taxa-de-juros/)
 
 **O mercado depois da eleição**
 - [Dólar sobe 8,21%, e bolsa cai 13,88% após reeleição de Lula — Agência Brasil](https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-sobe-821-e-bolsa-cai-1388-apos-reeleicao-de-lula)

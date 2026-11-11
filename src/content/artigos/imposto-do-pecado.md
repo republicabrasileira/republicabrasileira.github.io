@@ -282,9 +282,14 @@ da picanha e da cervejinha no fim de semana vai pagar o "imposto do pecado" no r
 trabalhar, e vê o Senado comprar iPhone de última geração com o dinheiro dela. O imposto não pergunta em
 quem você votou. Chega para todos.
 
-Voto não é cheque em branco. Quem elegeu o presidente tem, mais do que ninguém, o direito e o dever de
-cobrar dele o que foi prometido. Ficar em silêncio agora é deixar a conta, de novo, no bolso de quem menos
-pode pagar.
+Voto não é cheque em branco. Quem elegeu o presidente tem o direito e o dever de cobrar dele o que foi
+prometido. E quem não votou nele também: numa democracia, o presidente governa para todos e deve
+satisfação aos 100%, não só aos 51,79%.
+
+A boa notícia é que essa cobrança não tem lado. A compra de iPhones do Senado foi criticada pela direita e
+pela esquerda, e imposto mais alto, dinheiro parado e privilégio com dinheiro público pesam no bolso de
+quem votou em Lula e de quem votou em Flávio. Ficar em silêncio agora, de qualquer lado, é deixar a conta,
+de novo, no bolso de quem menos pode pagar.
 
 ## Fontes
 
