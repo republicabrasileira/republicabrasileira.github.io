@@ -76,9 +76,39 @@ Mas é justo dizer: não é invenção deste governo. Em 2022, também em ano de
 patrocinou a lei que limitou o ICMS dos combustíveis a cerca de 17% e o corte dos impostos federais sobre a
 gasolina, e vetou a compensação aos estados pela perda de arrecadação. Na época, analistas ouvidos pelo
 InfoMoney viram ali a "preocupação do presidente Jair Bolsonaro (PL) com o impacto da inflação sobre sua
-reeleição".
+reeleição". Lado a lado:
+
+| | Bolsonaro, 2022 | Lula, 2026 |
+|---|---|---|
+| Diesel | PIS e Cofins zerados em março | PIS e Cofins zerados em 12 de março, mais subvenções de R$ 2,12 e R$ 1,40 por litro ao diesel importado |
+| Gasolina | teto de cerca de 17% no ICMS (junho) e impostos federais zerados (julho) | impostos federais cortados em setembro e zerados em 9 de outubro (R$ 0,89 por litro) |
+| Caminhoneiros | auxílio de R$ 1.000 por mês, por cinco meses | subsídios ao diesel |
+| Benefícios sociais | Auxílio Brasil maior até dezembro, com "estado de emergência" para driblar a lei eleitoral | o pacote da reeleição, que mostrei em [O pacote da reeleição](../pacote-da-reeleicao/) |
+| Até quando | 31 de dezembro de 2022 | "apenas para 2026" |
+| Quando, em relação à eleição | de março a julho, até três meses antes do 1º turno | setembro e outubro, a semanas do 1º turno e a 16 dias do 2º |
 
 Muda o partido, a receita é a mesma: desconto no imposto do combustível em ano de eleição, conta para depois.
+A diferença de 2026 é que o corte da gasolina chegou ainda mais perto da urna.
+
+### E os caminhoneiros?
+
+Os dois governos agiram sob pressão de quem roda a estrada. O fantasma é a greve de **maio de 2018**, no
+governo Temer, que parou o país por dez dias e só acabou quando o Planalto cedeu: corte de R$ 0,46 por litro
+no diesel e tabela mínima de frete.
+
+- **Em 2022**, a Petrobras subiu o diesel em 24,9% em março, e lideranças anunciaram paralisações em pelo
+  menos quatro estados. Bolsonaro respondeu: "Tem muito caminhoneiro aí que vai parar. Eu sei disso, lamento
+  isso daí." Em maio e junho, depois de novos reajustes, a Abrava, liderada por Wallace Landim, o Chorão,
+  voltou a falar em greve nacional. Nenhuma das ameaças chegou perto da paralisação de 2018, mas o auxílio
+  de R$ 1.000 aos caminhoneiros veio em seguida.
+- **Em 2026**, a história se repetiu. Em março, com o diesel subindo mais de 7% numa semana, caminhoneiros
+  reunidos em Santos articularam uma greve nacional. O governo zerou o PIS e a Cofins do diesel e criou
+  subsídios, mas a Petrobras subiu o diesel em R$ 0,38 no dia seguinte, e a categoria disse que o efeito foi
+  anulado. Lula pediu aos governadores que reduzissem o ICMS do diesel, e eles **recusaram**, alegando perda
+  de arrecadação. A greve nacional não saiu, mas a pressão ficou.
+
+Ou seja: nos dois casos, o desconto no combustível veio com uma mão no termômetro da eleição e a outra no da
+estrada.
 
 ## E quando a isenção acabar?
 
@@ -118,7 +148,11 @@ seguindo uma fórmula da lei. A fórmula está numa lei complementar, e lei se m
 de sobra no Congresso para propor isso, e o próprio Confaz disse que avalia mudar prazos.
 
 Mas o governo federal não é o herói da história. Desconto temporário, com data para acabar depois da
-eleição, não é política de preço, é campanha. Se a gasolina é cara por causa dos impostos, a solução é
+eleição, não é política de preço, é campanha. Na minha opinião, tem cara de compra de votos para o segundo
+turno. Não no sentido do crime eleitoral, que é oferecer vantagem a um eleitor em troca do voto, mas no
+sentido político: usar bilhões de dinheiro público para baixar o preço da gasolina justamente nas semanas em
+que o eleitor decide. É exatamente o que foi criticado, com razão, em Bolsonaro em 2022. Se era errado
+naquela época, continua errado agora. Se a gasolina é cara por causa dos impostos, a solução é
 reduzir o imposto de forma permanente e cortar gasto para compensar, não usar um dinheiro extraordinário do
 petróleo para dar um alívio de 30 dias de cada vez.
 
@@ -164,6 +198,17 @@ esferas tem o direito de cobrar nas três.
 - [Bolsonaro sanciona lei que limita ICMS de combustíveis, mas veta compensação a estados — Agência Câmara](https://www.camara.leg.br/noticias/890296-bolsonaro-sanciona-lei-que-limita-icms-de-combustiveis-mas-veta-compensacao-a-estados)
 - [Rejeitados itens de três vetos (PIS/Cofins zerado sobre gasolina e etanol) — Senado Notícias](https://www12.senado.leg.br/noticias/materias/2022/07/14/rejeitados-itens-de-tres-vetos-e-adiada-a-decisao-sobre-ferrovias-e-fake-news)
 - [Plano de zerar ICMS dos combustíveis mostra preocupação do governo às vésperas da eleição — InfoMoney (2022)](https://www.infomoney.com.br/politica/plano-de-zerar-icms-dos-combustiveis-mostra-preocupacao-do-governo-as-vesperas-da-eleicao-dizem-analistas/)
+
+**Caminhoneiros: 2018, 2022 e 2026**
+- [Greve dos caminhoneiros: relembre movimento que parou o Brasil — CNN Brasil](https://www.cnnbrasil.com.br/nacional/brasil/greve-dos-caminhoneiros-relembre-movimento-que-parou-brasil-ha-8-anos/)
+- [Veja o que prevê o acordo entre governo e caminhoneiros (2018) — Agência Brasil](https://agenciabrasil.ebc.com.br/politica/noticia/2018-05/veja-o-que-preve-o-acordo-entre-governo-e-caminhoneiros)
+- [Alta do diesel: líder caminhoneiro anuncia paralisação em 4 estados (2022) — Metrópoles](https://www.metropoles.com/colunas/guilherme-amado/alta-do-diesel-lider-caminhoneiro-anuncia-paralisacao-em-4-estados)
+- [Bolsonaro sobre ameaça de paralisação de caminhoneiros: "Lamento" (2022) — Metrópoles](https://www.metropoles.com/brasil/economia-br/bolsonaro-sobre-ameaca-de-paralisacao-de-caminhoneiros-lamento)
+- [Após alta do diesel, caminhoneiros cobram Bolsonaro e falam em greve (2022) — Metrópoles](https://www.metropoles.com/brasil/apos-alta-do-diesel-caminhoneiros-cobram-bolsonaro-e-falam-em-greve)
+- [Senado aprova PEC com pacote de auxílios a carentes e a caminhoneiros (2022) — Agência Brasil](https://agenciabrasil.ebc.com.br/politica/noticia/2022-06/senado-aprova-pec-com-pacote-de-auxilios-carentes-e-caminhoneiros)
+- [Vai ter greve nacional dos caminhoneiros? O que se sabe até agora (março de 2026) — Exame](https://exame.com/brasil/vai-ter-greve-nacional-dos-caminhoneiros-o-que-se-sabe-ate-agora/)
+- [Greve dos caminhoneiros 2026: o que saber sobre o movimento — Gazeta do Povo](https://www.gazetadopovo.com.br/economia/por-que-os-caminhoneiros-ameacam-uma-nova-greve-nacional/)
+- [O que se sabe sobre a possível greve nacional dos caminhoneiros — Gazeta do Povo](https://www.gazetadopovo.com.br/economia/greve-caminhoneiros-alta-diesel/)
 
 **Atualização de 9/11**
 - [Governo prorroga por mais 30 dias desoneração da gasolina e do etanol — InfoMoney](https://www.infomoney.com.br/politica/governo-prorroga-por-mais-30-dias-desoneracao-da-gasolina-e-do-etanol/)
