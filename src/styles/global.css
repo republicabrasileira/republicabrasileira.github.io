@@ -191,6 +191,17 @@ a[href^='mailto:'] { white-space: nowrap; }
 .artigo figure { margin: 2em 0; }
 .artigo figure img { display: block; border-radius: var(--raio); border: 1px solid var(--linha); }
 .artigo figcaption { font-size: 0.85rem; color: var(--tinta-2); margin-top: 6px; }
+/* tabelas escritas em Markdown dentro dos artigos */
+.artigo .corpo table { width: 100%; border-collapse: separate; border-spacing: 0; margin: 1.6em 0 1.8em; font-size: 0.93rem; line-height: 1.45; font-variant-numeric: tabular-nums; background: var(--superficie); border: 1px solid var(--linha); border-radius: var(--raio); overflow: hidden; }
+.artigo .corpo th, .artigo .corpo td { padding: 10px 14px; text-align: left; vertical-align: top; border-bottom: 1px solid var(--linha); }
+.artigo .corpo thead th { background: var(--g-faixa); font-size: 0.74rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; color: var(--tinta-2); vertical-align: bottom; }
+.artigo .corpo tbody tr:last-child td { border-bottom: 0; }
+.artigo .corpo tbody td:first-child { color: var(--tinta-2); }
+.artigo .corpo tbody td strong { color: var(--tinta); }
+@media (max-width: 560px) {
+  .artigo .corpo table { display: block; overflow-x: auto; font-size: 0.86rem; }
+  .artigo .corpo th, .artigo .corpo td { padding: 8px 10px; }
+}
 .artigo blockquote { border-left: 4px solid var(--opiniao); margin: 1.5em 0; padding: 0.2em 1em; color: var(--tinta-2); font-style: italic; }
 .aviso-leitura { display: flex; flex-wrap: wrap; gap: 8px 16px; align-items: center; font-size: 0.86rem; color: var(--tinta-2); background: var(--superficie); border: 1px solid var(--linha); border-radius: var(--raio); padding: 10px 14px; margin-top: 16px; }
 

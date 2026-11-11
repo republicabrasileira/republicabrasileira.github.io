@@ -28,5 +28,7 @@ export function marcarPandemia(texto: string) {
 }
 
 export function minutosDeLeitura(texto: string) {
-  return Math.max(1, Math.round(texto.split(/\s+/).length / 220));
+  // gráficos em SVG e outras tags HTML dentro do Markdown não contam como texto
+  const limpo = texto.replace(/<svg[\s\S]*?<\/svg>/g, ' ').replace(/<[^>]+>/g, ' ');
+  return Math.max(1, Math.round(limpo.split(/\s+/).filter(Boolean).length / 220));
 }

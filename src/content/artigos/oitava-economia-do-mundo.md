@@ -36,6 +36,77 @@ subiu 8% num único pregão.
 Caiu para 12º em 2020 e 2021. Não ficamos mais pobres ou mais ricos na mesma velocidade que o ranking
 mudou: foi o real que subiu e caiu.
 
+<figure class="grafico" aria-label="Posição do Brasil no ranking do FMI de PIB em dólares, de 1990 a 2031">
+<svg viewBox="0 0 700 300" role="img">
+<rect x="601.1" y="16" width="94.9" height="254" fill="var(--g-faixa)" />
+<text class="rotulo-faixa" x="644.5" y="28" text-anchor="middle">Projeção do FMI</text>
+<line x1="40" x2="688" y1="60.0" y2="60.0" stroke="var(--g-grade)" stroke-width="1" />
+<text class="eixo" style="font-size:12px" x="32" y="64.0" text-anchor="end">7º</text>
+<line x1="40" x2="688" y1="90.0" y2="90.0" stroke="var(--g-grade)" stroke-width="1" />
+<text class="eixo" style="font-size:12px" x="32" y="94.0" text-anchor="end">8º</text>
+<line x1="40" x2="688" y1="150.0" y2="150.0" stroke="var(--g-grade)" stroke-width="1" />
+<text class="eixo" style="font-size:12px" x="32" y="154.0" text-anchor="end">10º</text>
+<line x1="40" x2="688" y1="210.0" y2="210.0" stroke="var(--g-grade)" stroke-width="1" />
+<text class="eixo" style="font-size:12px" x="32" y="214.0" text-anchor="end">12º</text>
+<line x1="40" x2="688" y1="270.0" y2="270.0" stroke="var(--g-grade)" stroke-width="1" />
+<text class="eixo" style="font-size:12px" x="32" y="274.0" text-anchor="end">14º</text>
+<text class="eixo" style="font-size:12px" x="40.0" y="292" text-anchor="middle">1990</text>
+<text class="eixo" style="font-size:12px" x="198.0" y="292" text-anchor="middle">2000</text>
+<text class="eixo" style="font-size:12px" x="356.1" y="292" text-anchor="middle">2010</text>
+<text class="eixo" style="font-size:12px" x="514.1" y="292" text-anchor="middle">2020</text>
+<text class="eixo" style="font-size:12px" x="672.2" y="292" text-anchor="middle">2030</text>
+<polyline points="40.0,150.0 55.8,180.0 71.6,180.0 87.4,180.0 103.2,150.0 119.0,60.0 134.8,90.0 150.6,90.0 166.4,90.0 182.2,180.0 198.0,150.0 213.9,210.0 229.7,240.0 245.5,270.0 261.3,240.0 277.1,210.0 292.9,150.0 308.7,150.0 324.5,120.0 340.3,90.0 356.1,60.0 371.9,60.0 387.7,60.0 403.5,60.0 419.3,60.0 435.1,120.0 450.9,120.0 466.7,90.0 482.5,120.0 498.3,120.0 514.1,210.0 530.0,210.0 545.8,180.0 561.6,150.0 577.4,180.0 593.2,180.0" fill="none" stroke="var(--s2)" stroke-width="2.5" stroke-linejoin="round" />
+<polyline points="593.2,180.0 609.0,150.0 624.8,90.0 640.6,90.0 656.4,90.0 672.2,90.0 688.0,90.0" fill="none" stroke="var(--s2)" stroke-width="2.5" stroke-dasharray="6 5" />
+<circle cx="40.0" cy="150.0" r="3.5" fill="var(--s2)" stroke="var(--superficie)" stroke-width="1.5"><title>1990: 10º lugar</title></circle>
+<circle cx="55.8" cy="180.0" r="3.5" fill="var(--s2)" stroke="var(--superficie)" stroke-width="1.5"><title>1991: 11º lugar</title></circle>
+<circle cx="71.6" cy="180.0" r="3.5" fill="var(--s2)" stroke="var(--superficie)" stroke-width="1.5"><title>1992: 11º lugar</title></circle>
+<circle cx="87.4" cy="180.0" r="3.5" fill="var(--s2)" stroke="var(--superficie)" stroke-width="1.5"><title>1993: 11º lugar</title></circle>
+<circle cx="103.2" cy="150.0" r="3.5" fill="var(--s2)" stroke="var(--superficie)" stroke-width="1.5"><title>1994: 10º lugar</title></circle>
+<circle cx="119.0" cy="60.0" r="3.5" fill="var(--s2)" stroke="var(--superficie)" stroke-width="1.5"><title>1995: 7º lugar</title></circle>
+<circle cx="134.8" cy="90.0" r="3.5" fill="var(--s2)" stroke="var(--superficie)" stroke-width="1.5"><title>1996: 8º lugar</title></circle>
+<circle cx="150.6" cy="90.0" r="3.5" fill="var(--s2)" stroke="var(--superficie)" stroke-width="1.5"><title>1997: 8º lugar</title></circle>
+<circle cx="166.4" cy="90.0" r="3.5" fill="var(--s2)" stroke="var(--superficie)" stroke-width="1.5"><title>1998: 8º lugar</title></circle>
+<circle cx="182.2" cy="180.0" r="3.5" fill="var(--s2)" stroke="var(--superficie)" stroke-width="1.5"><title>1999: 11º lugar</title></circle>
+<circle cx="198.0" cy="150.0" r="3.5" fill="var(--s2)" stroke="var(--superficie)" stroke-width="1.5"><title>2000: 10º lugar</title></circle>
+<circle cx="213.9" cy="210.0" r="3.5" fill="var(--s2)" stroke="var(--superficie)" stroke-width="1.5"><title>2001: 12º lugar</title></circle>
+<circle cx="229.7" cy="240.0" r="3.5" fill="var(--s2)" stroke="var(--superficie)" stroke-width="1.5"><title>2002: 13º lugar</title></circle>
+<circle cx="245.5" cy="270.0" r="3.5" fill="var(--s2)" stroke="var(--superficie)" stroke-width="1.5"><title>2003: 14º lugar</title></circle>
+<circle cx="261.3" cy="240.0" r="3.5" fill="var(--s2)" stroke="var(--superficie)" stroke-width="1.5"><title>2004: 13º lugar</title></circle>
+<circle cx="277.1" cy="210.0" r="3.5" fill="var(--s2)" stroke="var(--superficie)" stroke-width="1.5"><title>2005: 12º lugar</title></circle>
+<circle cx="292.9" cy="150.0" r="3.5" fill="var(--s2)" stroke="var(--superficie)" stroke-width="1.5"><title>2006: 10º lugar</title></circle>
+<circle cx="308.7" cy="150.0" r="3.5" fill="var(--s2)" stroke="var(--superficie)" stroke-width="1.5"><title>2007: 10º lugar</title></circle>
+<circle cx="324.5" cy="120.0" r="3.5" fill="var(--s2)" stroke="var(--superficie)" stroke-width="1.5"><title>2008: 9º lugar</title></circle>
+<circle cx="340.3" cy="90.0" r="3.5" fill="var(--s2)" stroke="var(--superficie)" stroke-width="1.5"><title>2009: 8º lugar</title></circle>
+<circle cx="356.1" cy="60.0" r="3.5" fill="var(--s2)" stroke="var(--superficie)" stroke-width="1.5"><title>2010: 7º lugar</title></circle>
+<circle cx="371.9" cy="60.0" r="3.5" fill="var(--s2)" stroke="var(--superficie)" stroke-width="1.5"><title>2011: 7º lugar</title></circle>
+<circle cx="387.7" cy="60.0" r="3.5" fill="var(--s2)" stroke="var(--superficie)" stroke-width="1.5"><title>2012: 7º lugar</title></circle>
+<circle cx="403.5" cy="60.0" r="3.5" fill="var(--s2)" stroke="var(--superficie)" stroke-width="1.5"><title>2013: 7º lugar</title></circle>
+<circle cx="419.3" cy="60.0" r="3.5" fill="var(--s2)" stroke="var(--superficie)" stroke-width="1.5"><title>2014: 7º lugar</title></circle>
+<circle cx="435.1" cy="120.0" r="3.5" fill="var(--s2)" stroke="var(--superficie)" stroke-width="1.5"><title>2015: 9º lugar</title></circle>
+<circle cx="450.9" cy="120.0" r="3.5" fill="var(--s2)" stroke="var(--superficie)" stroke-width="1.5"><title>2016: 9º lugar</title></circle>
+<circle cx="466.7" cy="90.0" r="3.5" fill="var(--s2)" stroke="var(--superficie)" stroke-width="1.5"><title>2017: 8º lugar</title></circle>
+<circle cx="482.5" cy="120.0" r="3.5" fill="var(--s2)" stroke="var(--superficie)" stroke-width="1.5"><title>2018: 9º lugar</title></circle>
+<circle cx="498.3" cy="120.0" r="3.5" fill="var(--s2)" stroke="var(--superficie)" stroke-width="1.5"><title>2019: 9º lugar</title></circle>
+<circle cx="514.1" cy="210.0" r="3.5" fill="var(--s2)" stroke="var(--superficie)" stroke-width="1.5"><title>2020: 12º lugar</title></circle>
+<circle cx="530.0" cy="210.0" r="3.5" fill="var(--s2)" stroke="var(--superficie)" stroke-width="1.5"><title>2021: 12º lugar</title></circle>
+<circle cx="545.8" cy="180.0" r="3.5" fill="var(--s2)" stroke="var(--superficie)" stroke-width="1.5"><title>2022: 11º lugar</title></circle>
+<circle cx="561.6" cy="150.0" r="3.5" fill="var(--s2)" stroke="var(--superficie)" stroke-width="1.5"><title>2023: 10º lugar</title></circle>
+<circle cx="577.4" cy="180.0" r="3.5" fill="var(--s2)" stroke="var(--superficie)" stroke-width="1.5"><title>2024: 11º lugar</title></circle>
+<circle cx="593.2" cy="180.0" r="3.5" fill="var(--s2)" stroke="var(--superficie)" stroke-width="1.5"><title>2025: 11º lugar</title></circle>
+<circle cx="609.0" cy="150.0" r="3.5" fill="var(--s2)" stroke="var(--superficie)" stroke-width="1.5"><title>2026: 10º lugar (projeção)</title></circle>
+<circle cx="624.8" cy="90.0" r="3.5" fill="var(--s2)" stroke="var(--superficie)" stroke-width="1.5"><title>2027: 8º lugar (projeção)</title></circle>
+<circle cx="640.6" cy="90.0" r="3.5" fill="var(--s2)" stroke="var(--superficie)" stroke-width="1.5"><title>2028: 8º lugar (projeção)</title></circle>
+<circle cx="656.4" cy="90.0" r="3.5" fill="var(--s2)" stroke="var(--superficie)" stroke-width="1.5"><title>2029: 8º lugar (projeção)</title></circle>
+<circle cx="672.2" cy="90.0" r="3.5" fill="var(--s2)" stroke="var(--superficie)" stroke-width="1.5"><title>2030: 8º lugar (projeção)</title></circle>
+<circle cx="688.0" cy="90.0" r="3.5" fill="var(--s2)" stroke="var(--superficie)" stroke-width="1.5"><title>2031: 8º lugar (projeção)</title></circle>
+<text x="119.0" y="48.0" text-anchor="middle" style="font-size:13px;font-weight:600;fill:var(--tinta)">1995: 7º</text>
+<text x="387.7" y="48.0" text-anchor="middle" style="font-size:13px;font-weight:600;fill:var(--tinta)">2010 a 2014: 7º</text>
+<text x="522.0" y="232.0" text-anchor="middle" style="font-size:13px;font-weight:600;fill:var(--tinta)">2020 e 2021: 12º</text>
+<text x="648.5" y="78.0" text-anchor="middle" style="font-size:13px;font-weight:600;fill:var(--tinta)">2027: 8º?</text>
+</svg>
+<figcaption class="fonte-grafico">Posição do Brasil no ranking de PIB em dólares correntes (quanto mais alto, melhor). De 2026 em diante, projeção. Fonte: FMI, World Economic Outlook de outubro de 2026. Passe o mouse nos pontos para ver cada ano.</figcaption>
+</figure>
+
 **4. Tamanho não é riqueza.** O Brasil tem 213 milhões de habitantes, a sétima maior população do mundo.
 Com tanta gente, seria estranho não ter uma economia grande. A pergunta certa é quanto essa economia
 produz por pessoa.
@@ -67,16 +138,28 @@ Os números do FMI não sustentam nem uma coisa nem outra:
 
 Dividindo o PIB pela população, o retrato é outro. Pelo FMI:
 
-| | Brasil |
-|---|---|
-| Posição no PIB total (2027) | **8º** |
-| Posição no PIB por habitante (2025) | **85º**, com US$ 10.683 |
-| Posição no PIB por habitante (2027) | **84º**, com US$ 13.016 |
+| Indicador | Ano | Posição do Brasil | Valor |
+|---|---|---|---|
+| PIB total | 2026 | 10º | US$ 2,65 trilhões |
+| PIB total | 2027 (projeção) | **8º** | US$ 2,80 trilhões |
+| PIB por habitante | 2025 | 85º | US$ 10.683 |
+| PIB por habitante | 2027 (projeção) | **84º** | US$ 13.016 |
 
-Ou seja: a "oitava economia do mundo" vai ter, em 2027, PIB por habitante **abaixo da média mundial**
-(US$ 16.627), menos de um quinto da média dos países ricos (US$ 69.793), e atrás de vizinhos como Uruguai,
-Chile, Argentina e México. A Itália, que o Brasil vai passar em tamanho, tem renda por habitante **3,6
-vezes** maior que a nossa.
+Ou seja: a "oitava economia do mundo" vai ter, em 2027, PIB por habitante **abaixo da média mundial** e
+atrás de vizinhos da América Latina. A Itália, que o Brasil vai passar em tamanho, tem renda por habitante
+**3,6 vezes** maior que a nossa.
+
+| País ou grupo | PIB por habitante em 2027 (projeção do FMI) |
+|---|---|
+| Média dos países ricos | US$ 69.793 |
+| Coreia do Sul | US$ 49.277 |
+| Itália | US$ 47.145 |
+| Uruguai | US$ 28.923 |
+| Chile | US$ 20.415 |
+| México | US$ 17.095 |
+| Média mundial | US$ 16.627 |
+| Argentina | US$ 15.741 |
+| **Brasil** | **US$ 13.016** |
 
 ## Os BRICS: o Brasil foi um dos que menos andou
 
@@ -107,11 +190,191 @@ brasileiro.
 A Coreia do Sul não é dos BRICS, mas é a comparação que mais ensina. Em 1980, os dois países eram pobres, e
 o Brasil era o mais rico dos dois.
 
-| | 1980 | 2025 |
+| PIB por habitante (dólares de 2015) | Brasil | Coreia do Sul |
 |---|---|---|
-| PIB por habitante do **Brasil** (dólares de 2015) | US$ 6.473 | US$ 9.748 |
-| PIB por habitante da **Coreia do Sul** (dólares de 2015) | US$ 4.140 | US$ 37.470 |
-| Quem era mais rico | Brasil, 56% à frente | Coreia, 3,8 vezes à frente |
+| 1980 | **US$ 6.473** | US$ 4.140 |
+| 2025 | US$ 9.748 | **US$ 37.470** |
+| Crescimento no período | +51% | +805% (9 vezes) |
+| Média por ano | 0,9% | 5,0% |
+
+Em 1980, o Brasil estava 56% à frente. Em 2025, a Coreia está 3,8 vezes à frente.
+
+<figure class="grafico" aria-label="PIB por habitante de Brasil, Coreia do Sul e China de 1980 a 2025">
+<svg viewBox="0 0 700 380" role="img">
+<line x1="50" x2="592" y1="350.0" y2="350.0" stroke="var(--tinta-3)" stroke-width="1" />
+<text class="eixo" style="font-size:12px" x="42" y="354.0" text-anchor="end">0</text>
+<line x1="50" x2="592" y1="267.5" y2="267.5" stroke="var(--g-grade)" stroke-width="1" />
+<text class="eixo" style="font-size:12px" x="42" y="271.5" text-anchor="end">10 mil</text>
+<line x1="50" x2="592" y1="185.0" y2="185.0" stroke="var(--g-grade)" stroke-width="1" />
+<text class="eixo" style="font-size:12px" x="42" y="189.0" text-anchor="end">20 mil</text>
+<line x1="50" x2="592" y1="102.5" y2="102.5" stroke="var(--g-grade)" stroke-width="1" />
+<text class="eixo" style="font-size:12px" x="42" y="106.5" text-anchor="end">30 mil</text>
+<line x1="50" x2="592" y1="20.0" y2="20.0" stroke="var(--g-grade)" stroke-width="1" />
+<text class="eixo" style="font-size:12px" x="42" y="24.0" text-anchor="end">40 mil</text>
+<text class="eixo" style="font-size:12px" x="50.0" y="372" text-anchor="middle">1980</text>
+<text class="eixo" style="font-size:12px" x="170.4" y="372" text-anchor="middle">1990</text>
+<text class="eixo" style="font-size:12px" x="290.9" y="372" text-anchor="middle">2000</text>
+<text class="eixo" style="font-size:12px" x="411.3" y="372" text-anchor="middle">2010</text>
+<text class="eixo" style="font-size:12px" x="531.8" y="372" text-anchor="middle">2020</text>
+<polyline points="50.0,315.8 62.0,313.9 74.1,311.4 86.1,306.9 98.2,302.9 110.2,299.6 122.3,294.4 134.3,287.8 146.4,281.0 158.4,276.8 170.4,270.2 182.5,262.4 194.5,257.8 206.6,252.3 218.6,244.3 230.7,235.1 242.7,227.1 254.8,220.6 266.8,227.9 278.8,214.7 290.9,203.5 302.9,197.7 315.0,186.9 327.0,182.7 339.1,174.7 351.1,167.5 363.2,158.9 375.2,148.8 387.2,144.3 399.3,143.7 411.3,130.4 423.4,124.0 435.4,119.5 447.5,113.0 459.5,106.9 471.6,101.1 483.6,94.2 495.6,86.2 507.7,79.0 519.7,73.7 531.8,76.0 543.8,63.0 555.9,54.6 567.9,50.1 580.0,44.4 592.0,40.9" fill="none" stroke="var(--s2)" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<polyline points="50.0,346.4 62.0,346.3 74.1,346.0 86.1,345.6 98.2,345.0 110.2,344.4 122.3,344.0 134.3,343.4 146.4,342.8 158.4,342.6 170.4,342.4 182.5,341.8 194.5,340.8 206.6,339.6 218.6,338.4 230.7,337.3 242.7,336.1 254.8,335.0 266.8,334.0 278.8,332.9 290.9,331.5 302.9,330.2 315.0,328.5 327.0,326.4 339.1,324.2 351.1,321.4 363.2,318.0 375.2,313.6 387.2,310.3 399.3,306.8 411.3,302.4 423.4,298.2 435.4,294.5 447.5,290.6 459.5,286.6 471.6,282.6 483.6,278.4 495.6,273.9 507.7,269.2 519.7,264.6 531.8,262.8 543.8,255.4 555.9,252.4 567.9,247.0 580.0,241.8 592.0,236.2" fill="none" stroke="var(--s3)" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<polyline points="50.0,296.6 62.0,300.0 74.1,300.8 86.1,303.3 98.2,301.8 110.2,299.1 122.3,296.4 134.3,295.6 146.4,296.7 158.4,296.0 170.4,299.3 182.5,299.6 194.5,300.7 206.6,299.1 218.6,297.0 230.7,295.6 242.7,295.2 254.8,294.2 266.8,294.8 278.8,295.4 290.9,293.8 302.9,293.7 315.0,292.7 327.0,292.7 339.1,290.1 351.1,288.9 363.2,287.1 375.2,284.0 387.2,281.3 399.3,282.0 411.3,277.5 423.4,275.2 435.4,274.4 447.5,272.7 459.5,273.0 471.6,276.3 483.6,279.2 495.6,278.8 507.7,278.0 519.7,277.6 531.8,280.4 543.8,277.4 555.9,275.5 567.9,273.4 580.0,271.1 592.0,269.6" fill="none" stroke="var(--s1)" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="592.0" cy="40.9" r="4" fill="var(--s2)" stroke="var(--superficie)" stroke-width="2" />
+<text x="602.0" y="44.9" style="font-size:14px;font-weight:600;fill:var(--tinta)">Coreia do Sul</text>
+<text class="eixo" style="font-size:12px" x="602.0" y="60.9">US$ 37.470</text>
+<circle cx="592.0" cy="236.2" r="4" fill="var(--s3)" stroke="var(--superficie)" stroke-width="2" />
+<text x="602.0" y="232.2" style="font-size:14px;font-weight:600;fill:var(--tinta)">China</text>
+<text class="eixo" style="font-size:12px" x="602.0" y="248.2">US$ 13.793</text>
+<circle cx="592.0" cy="269.6" r="4" fill="var(--s1)" stroke="var(--superficie)" stroke-width="2" />
+<text x="602.0" y="289.6" style="font-size:14px;font-weight:600;fill:var(--tinta)">Brasil</text>
+<text class="eixo" style="font-size:12px" x="602.0" y="305.6">US$ 9.748</text>
+<circle cx="50.0" cy="296.6" r="4" fill="var(--s1)" stroke="var(--superficie)" stroke-width="2" />
+<line x1="122.3" x2="122.3" y1="288.4" y2="168.5" stroke="var(--tinta-3)" stroke-dasharray="3 3" />
+<text x="118.3" y="162.5" style="font-size:13px">1986: a Coreia passa o Brasil</text>
+<line x1="483.6" x2="483.6" y1="272.4" y2="185.0" stroke="var(--tinta-3)" stroke-dasharray="3 3" />
+<text x="489.6" y="163.0" style="font-size:13px">2016: a China</text>
+<text x="489.6" y="179.0" style="font-size:13px">passa o Brasil</text>
+<circle cx="50.0" cy="315.8" r="7" fill="transparent"><title>Coreia do Sul, 1980: US$ 4.140</title></circle>
+<circle cx="62.0" cy="313.9" r="7" fill="transparent"><title>Coreia do Sul, 1981: US$ 4.378</title></circle>
+<circle cx="74.1" cy="311.4" r="7" fill="transparent"><title>Coreia do Sul, 1982: US$ 4.676</title></circle>
+<circle cx="86.1" cy="306.9" r="7" fill="transparent"><title>Coreia do Sul, 1983: US$ 5.228</title></circle>
+<circle cx="98.2" cy="302.9" r="7" fill="transparent"><title>Coreia do Sul, 1984: US$ 5.713</title></circle>
+<circle cx="110.2" cy="299.6" r="7" fill="transparent"><title>Coreia do Sul, 1985: US$ 6.106</title></circle>
+<circle cx="122.3" cy="294.4" r="7" fill="transparent"><title>Coreia do Sul, 1986: US$ 6.741</title></circle>
+<circle cx="134.3" cy="287.8" r="7" fill="transparent"><title>Coreia do Sul, 1987: US$ 7.535</title></circle>
+<circle cx="146.4" cy="281.0" r="7" fill="transparent"><title>Coreia do Sul, 1988: US$ 8.367</title></circle>
+<circle cx="158.4" cy="276.8" r="7" fill="transparent"><title>Coreia do Sul, 1989: US$ 8.878</title></circle>
+<circle cx="170.4" cy="270.2" r="7" fill="transparent"><title>Coreia do Sul, 1990: US$ 9.673</title></circle>
+<circle cx="182.5" cy="262.4" r="7" fill="transparent"><title>Coreia do Sul, 1991: US$ 10.619</title></circle>
+<circle cx="194.5" cy="257.8" r="7" fill="transparent"><title>Coreia do Sul, 1992: US$ 11.177</title></circle>
+<circle cx="206.6" cy="252.3" r="7" fill="transparent"><title>Coreia do Sul, 1993: US$ 11.837</title></circle>
+<circle cx="218.6" cy="244.3" r="7" fill="transparent"><title>Coreia do Sul, 1994: US$ 12.817</title></circle>
+<circle cx="230.7" cy="235.1" r="7" fill="transparent"><title>Coreia do Sul, 1995: US$ 13.924</title></circle>
+<circle cx="242.7" cy="227.1" r="7" fill="transparent"><title>Coreia do Sul, 1996: US$ 14.894</title></circle>
+<circle cx="254.8" cy="220.6" r="7" fill="transparent"><title>Coreia do Sul, 1997: US$ 15.682</title></circle>
+<circle cx="266.8" cy="227.9" r="7" fill="transparent"><title>Coreia do Sul, 1998: US$ 14.801</title></circle>
+<circle cx="278.8" cy="214.7" r="7" fill="transparent"><title>Coreia do Sul, 1999: US$ 16.403</title></circle>
+<circle cx="290.9" cy="203.5" r="7" fill="transparent"><title>Coreia do Sul, 2000: US$ 17.763</title></circle>
+<circle cx="302.9" cy="197.7" r="7" fill="transparent"><title>Coreia do Sul, 2001: US$ 18.460</title></circle>
+<circle cx="315.0" cy="186.9" r="7" fill="transparent"><title>Coreia do Sul, 2002: US$ 19.775</title></circle>
+<circle cx="327.0" cy="182.7" r="7" fill="transparent"><title>Coreia do Sul, 2003: US$ 20.278</title></circle>
+<circle cx="339.1" cy="174.7" r="7" fill="transparent"><title>Coreia do Sul, 2004: US$ 21.245</title></circle>
+<circle cx="351.1" cy="167.5" r="7" fill="transparent"><title>Coreia do Sul, 2005: US$ 22.124</title></circle>
+<circle cx="363.2" cy="158.9" r="7" fill="transparent"><title>Coreia do Sul, 2006: US$ 23.162</title></circle>
+<circle cx="375.2" cy="148.8" r="7" fill="transparent"><title>Coreia do Sul, 2007: US$ 24.392</title></circle>
+<circle cx="387.2" cy="144.3" r="7" fill="transparent"><title>Coreia do Sul, 2008: US$ 24.935</title></circle>
+<circle cx="399.3" cy="143.7" r="7" fill="transparent"><title>Coreia do Sul, 2009: US$ 25.010</title></circle>
+<circle cx="411.3" cy="130.4" r="7" fill="transparent"><title>Coreia do Sul, 2010: US$ 26.623</title></circle>
+<circle cx="423.4" cy="124.0" r="7" fill="transparent"><title>Coreia do Sul, 2011: US$ 27.393</title></circle>
+<circle cx="435.4" cy="119.5" r="7" fill="transparent"><title>Coreia do Sul, 2012: US$ 27.944</title></circle>
+<circle cx="447.5" cy="113.0" r="7" fill="transparent"><title>Coreia do Sul, 2013: US$ 28.733</title></circle>
+<circle cx="459.5" cy="106.9" r="7" fill="transparent"><title>Coreia do Sul, 2014: US$ 29.471</title></circle>
+<circle cx="471.6" cy="101.1" r="7" fill="transparent"><title>Coreia do Sul, 2015: US$ 30.172</title></circle>
+<circle cx="483.6" cy="94.2" r="7" fill="transparent"><title>Coreia do Sul, 2016: US$ 31.005</title></circle>
+<circle cx="495.6" cy="86.2" r="7" fill="transparent"><title>Coreia do Sul, 2017: US$ 31.980</title></circle>
+<circle cx="507.7" cy="79.0" r="7" fill="transparent"><title>Coreia do Sul, 2018: US$ 32.853</title></circle>
+<circle cx="519.7" cy="73.7" r="7" fill="transparent"><title>Coreia do Sul, 2019: US$ 33.496</title></circle>
+<circle cx="531.8" cy="76.0" r="7" fill="transparent"><title>Coreia do Sul, 2020: US$ 33.216</title></circle>
+<circle cx="543.8" cy="63.0" r="7" fill="transparent"><title>Coreia do Sul, 2021: US$ 34.793</title></circle>
+<circle cx="555.9" cy="54.6" r="7" fill="transparent"><title>Coreia do Sul, 2022: US$ 35.809</title></circle>
+<circle cx="567.9" cy="50.1" r="7" fill="transparent"><title>Coreia do Sul, 2023: US$ 36.348</title></circle>
+<circle cx="580.0" cy="44.4" r="7" fill="transparent"><title>Coreia do Sul, 2024: US$ 37.048</title></circle>
+<circle cx="592.0" cy="40.9" r="7" fill="transparent"><title>Coreia do Sul, 2025: US$ 37.470</title></circle>
+<circle cx="50.0" cy="346.4" r="7" fill="transparent"><title>China, 1980: US$ 437</title></circle>
+<circle cx="62.0" cy="346.3" r="7" fill="transparent"><title>China, 1981: US$ 453</title></circle>
+<circle cx="74.1" cy="346.0" r="7" fill="transparent"><title>China, 1982: US$ 487</title></circle>
+<circle cx="86.1" cy="345.6" r="7" fill="transparent"><title>China, 1983: US$ 531</title></circle>
+<circle cx="98.2" cy="345.0" r="7" fill="transparent"><title>China, 1984: US$ 604</title></circle>
+<circle cx="110.2" cy="344.4" r="7" fill="transparent"><title>China, 1985: US$ 676</title></circle>
+<circle cx="122.3" cy="344.0" r="7" fill="transparent"><title>China, 1986: US$ 726</title></circle>
+<circle cx="134.3" cy="343.4" r="7" fill="transparent"><title>China, 1987: US$ 797</title></circle>
+<circle cx="146.4" cy="342.8" r="7" fill="transparent"><title>China, 1988: US$ 873</title></circle>
+<circle cx="158.4" cy="342.6" r="7" fill="transparent"><title>China, 1989: US$ 896</title></circle>
+<circle cx="170.4" cy="342.4" r="7" fill="transparent"><title>China, 1990: US$ 917</title></circle>
+<circle cx="182.5" cy="341.8" r="7" fill="transparent"><title>China, 1991: US$ 990</title></circle>
+<circle cx="194.5" cy="340.8" r="7" fill="transparent"><title>China, 1992: US$ 1.117</title></circle>
+<circle cx="206.6" cy="339.6" r="7" fill="transparent"><title>China, 1993: US$ 1.258</title></circle>
+<circle cx="218.6" cy="338.4" r="7" fill="transparent"><title>China, 1994: US$ 1.407</title></circle>
+<circle cx="230.7" cy="337.3" r="7" fill="transparent"><title>China, 1995: US$ 1.545</title></circle>
+<circle cx="242.7" cy="336.1" r="7" fill="transparent"><title>China, 1996: US$ 1.681</title></circle>
+<circle cx="254.8" cy="335.0" r="7" fill="transparent"><title>China, 1997: US$ 1.819</title></circle>
+<circle cx="266.8" cy="334.0" r="7" fill="transparent"><title>China, 1998: US$ 1.944</title></circle>
+<circle cx="278.8" cy="332.9" r="7" fill="transparent"><title>China, 1999: US$ 2.077</title></circle>
+<circle cx="290.9" cy="331.5" r="7" fill="transparent"><title>China, 2000: US$ 2.237</title></circle>
+<circle cx="302.9" cy="330.2" r="7" fill="transparent"><title>China, 2001: US$ 2.406</title></circle>
+<circle cx="315.0" cy="328.5" r="7" fill="transparent"><title>China, 2002: US$ 2.611</title></circle>
+<circle cx="327.0" cy="326.4" r="7" fill="transparent"><title>China, 2003: US$ 2.857</title></circle>
+<circle cx="339.1" cy="324.2" r="7" fill="transparent"><title>China, 2004: US$ 3.128</title></circle>
+<circle cx="351.1" cy="321.4" r="7" fill="transparent"><title>China, 2005: US$ 3.466</title></circle>
+<circle cx="363.2" cy="318.0" r="7" fill="transparent"><title>China, 2006: US$ 3.883</title></circle>
+<circle cx="375.2" cy="313.6" r="7" fill="transparent"><title>China, 2007: US$ 4.410</title></circle>
+<circle cx="387.2" cy="310.3" r="7" fill="transparent"><title>China, 2008: US$ 4.811</title></circle>
+<circle cx="399.3" cy="306.8" r="7" fill="transparent"><title>China, 2009: US$ 5.238</title></circle>
+<circle cx="411.3" cy="302.4" r="7" fill="transparent"><title>China, 2010: US$ 5.765</title></circle>
+<circle cx="423.4" cy="298.2" r="7" fill="transparent"><title>China, 2011: US$ 6.276</title></circle>
+<circle cx="435.4" cy="294.5" r="7" fill="transparent"><title>China, 2012: US$ 6.723</title></circle>
+<circle cx="447.5" cy="290.6" r="7" fill="transparent"><title>China, 2013: US$ 7.198</title></circle>
+<circle cx="459.5" cy="286.6" r="7" fill="transparent"><title>China, 2014: US$ 7.686</title></circle>
+<circle cx="471.6" cy="282.6" r="7" fill="transparent"><title>China, 2015: US$ 8.175</title></circle>
+<circle cx="483.6" cy="278.4" r="7" fill="transparent"><title>China, 2016: US$ 8.679</title></circle>
+<circle cx="495.6" cy="273.9" r="7" fill="transparent"><title>China, 2017: US$ 9.221</title></circle>
+<circle cx="507.7" cy="269.2" r="7" fill="transparent"><title>China, 2018: US$ 9.799</title></circle>
+<circle cx="519.7" cy="264.6" r="7" fill="transparent"><title>China, 2019: US$ 10.356</title></circle>
+<circle cx="531.8" cy="262.8" r="7" fill="transparent"><title>China, 2020: US$ 10.573</title></circle>
+<circle cx="543.8" cy="255.4" r="7" fill="transparent"><title>China, 2021: US$ 11.469</title></circle>
+<circle cx="555.9" cy="252.4" r="7" fill="transparent"><title>China, 2022: US$ 11.830</title></circle>
+<circle cx="567.9" cy="247.0" r="7" fill="transparent"><title>China, 2023: US$ 12.484</title></circle>
+<circle cx="580.0" cy="241.8" r="7" fill="transparent"><title>China, 2024: US$ 13.119</title></circle>
+<circle cx="592.0" cy="236.2" r="7" fill="transparent"><title>China, 2025: US$ 13.793</title></circle>
+<circle cx="50.0" cy="296.6" r="7" fill="transparent"><title>Brasil, 1980: US$ 6.473</title></circle>
+<circle cx="62.0" cy="300.0" r="7" fill="transparent"><title>Brasil, 1981: US$ 6.055</title></circle>
+<circle cx="74.1" cy="300.8" r="7" fill="transparent"><title>Brasil, 1982: US$ 5.968</title></circle>
+<circle cx="86.1" cy="303.3" r="7" fill="transparent"><title>Brasil, 1983: US$ 5.665</title></circle>
+<circle cx="98.2" cy="301.8" r="7" fill="transparent"><title>Brasil, 1984: US$ 5.842</title></circle>
+<circle cx="110.2" cy="299.1" r="7" fill="transparent"><title>Brasil, 1985: US$ 6.168</title></circle>
+<circle cx="122.3" cy="296.4" r="7" fill="transparent"><title>Brasil, 1986: US$ 6.494</title></circle>
+<circle cx="134.3" cy="295.6" r="7" fill="transparent"><title>Brasil, 1987: US$ 6.592</title></circle>
+<circle cx="146.4" cy="296.7" r="7" fill="transparent"><title>Brasil, 1988: US$ 6.463</title></circle>
+<circle cx="158.4" cy="296.0" r="7" fill="transparent"><title>Brasil, 1989: US$ 6.545</title></circle>
+<circle cx="170.4" cy="299.3" r="7" fill="transparent"><title>Brasil, 1990: US$ 6.150</title></circle>
+<circle cx="182.5" cy="299.6" r="7" fill="transparent"><title>Brasil, 1991: US$ 6.108</title></circle>
+<circle cx="194.5" cy="300.7" r="7" fill="transparent"><title>Brasil, 1992: US$ 5.974</title></circle>
+<circle cx="206.6" cy="299.1" r="7" fill="transparent"><title>Brasil, 1993: US$ 6.167</title></circle>
+<circle cx="218.6" cy="297.0" r="7" fill="transparent"><title>Brasil, 1994: US$ 6.427</title></circle>
+<circle cx="230.7" cy="295.6" r="7" fill="transparent"><title>Brasil, 1995: US$ 6.596</title></circle>
+<circle cx="242.7" cy="295.2" r="7" fill="transparent"><title>Brasil, 1996: US$ 6.641</title></circle>
+<circle cx="254.8" cy="294.2" r="7" fill="transparent"><title>Brasil, 1997: US$ 6.765</title></circle>
+<circle cx="266.8" cy="294.8" r="7" fill="transparent"><title>Brasil, 1998: US$ 6.687</title></circle>
+<circle cx="278.8" cy="295.4" r="7" fill="transparent"><title>Brasil, 1999: US$ 6.622</title></circle>
+<circle cx="290.9" cy="293.8" r="7" fill="transparent"><title>Brasil, 2000: US$ 6.818</title></circle>
+<circle cx="302.9" cy="293.7" r="7" fill="transparent"><title>Brasil, 2001: US$ 6.823</title></circle>
+<circle cx="315.0" cy="292.7" r="7" fill="transparent"><title>Brasil, 2002: US$ 6.945</title></circle>
+<circle cx="327.0" cy="292.7" r="7" fill="transparent"><title>Brasil, 2003: US$ 6.941</title></circle>
+<circle cx="339.1" cy="290.1" r="7" fill="transparent"><title>Brasil, 2004: US$ 7.259</title></circle>
+<circle cx="351.1" cy="288.9" r="7" fill="transparent"><title>Brasil, 2005: US$ 7.410</title></circle>
+<circle cx="363.2" cy="287.1" r="7" fill="transparent"><title>Brasil, 2006: US$ 7.622</title></circle>
+<circle cx="375.2" cy="284.0" r="7" fill="transparent"><title>Brasil, 2007: US$ 8.003</title></circle>
+<circle cx="387.2" cy="281.3" r="7" fill="transparent"><title>Brasil, 2008: US$ 8.331</title></circle>
+<circle cx="399.3" cy="282.0" r="7" fill="transparent"><title>Brasil, 2009: US$ 8.246</title></circle>
+<circle cx="411.3" cy="277.5" r="7" fill="transparent"><title>Brasil, 2010: US$ 8.793</title></circle>
+<circle cx="423.4" cy="275.2" r="7" fill="transparent"><title>Brasil, 2011: US$ 9.068</title></circle>
+<circle cx="435.4" cy="274.4" r="7" fill="transparent"><title>Brasil, 2012: US$ 9.167</title></circle>
+<circle cx="447.5" cy="272.7" r="7" fill="transparent"><title>Brasil, 2013: US$ 9.367</title></circle>
+<circle cx="459.5" cy="273.0" r="7" fill="transparent"><title>Brasil, 2014: US$ 9.338</title></circle>
+<circle cx="471.6" cy="276.3" r="7" fill="transparent"><title>Brasil, 2015: US$ 8.936</title></circle>
+<circle cx="483.6" cy="279.2" r="7" fill="transparent"><title>Brasil, 2016: US$ 8.578</title></circle>
+<circle cx="495.6" cy="278.8" r="7" fill="transparent"><title>Brasil, 2017: US$ 8.628</title></circle>
+<circle cx="507.7" cy="278.0" r="7" fill="transparent"><title>Brasil, 2018: US$ 8.722</title></circle>
+<circle cx="519.7" cy="277.6" r="7" fill="transparent"><title>Brasil, 2019: US$ 8.771</title></circle>
+<circle cx="531.8" cy="280.4" r="7" fill="transparent"><title>Brasil, 2020: US$ 8.435</title></circle>
+<circle cx="543.8" cy="277.4" r="7" fill="transparent"><title>Brasil, 2021: US$ 8.799</title></circle>
+<circle cx="555.9" cy="275.5" r="7" fill="transparent"><title>Brasil, 2022: US$ 9.032</title></circle>
+<circle cx="567.9" cy="273.4" r="7" fill="transparent"><title>Brasil, 2023: US$ 9.288</title></circle>
+<circle cx="580.0" cy="271.1" r="7" fill="transparent"><title>Brasil, 2024: US$ 9.567</title></circle>
+<circle cx="592.0" cy="269.6" r="7" fill="transparent"><title>Brasil, 2025: US$ 9.748</title></circle>
+</svg>
+<figcaption class="fonte-grafico">PIB por habitante em dólares constantes de 2015, ou seja, já descontada a inflação. Fonte: Banco Mundial (NY.GDP.PCAP.KD). Passe o mouse nas linhas para ver o valor de cada ano.</figcaption>
+</figure>
 
 Em 45 anos, o brasileiro médio ficou **51% mais rico**, menos de 1% ao ano. O sul-coreano ficou **9 vezes
 mais rico**, 5% ao ano. A Coreia passou o Brasil em meados dos anos 1980 e nunca mais olhou para trás.
