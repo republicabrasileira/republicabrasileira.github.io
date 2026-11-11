@@ -59,6 +59,57 @@ Repare em dois detalhes:
 - **O carro não é luxo para quem trabalha com ele.** Vendedor, técnico, entregador e motorista de aplicativo
   usam o carro para ganhar a vida. O taxista ficou isento; o motorista de aplicativo, não.
 
+## Mas o carro já não é um dos mais tributados do mundo?
+
+É. E isso torna o "pecado" ainda mais difícil de entender. Pelas contas da Anfavea, a associação das
+montadoras, os impostos representam entre **37,2% e 43,7%** do preço de um carro novo no Brasil, contando
+só os principais tributos (IPI, ICMS, PIS e Cofins), e podem passar de **48%** somando os demais. Ou seja,
+em um carro de R$ 100 mil, algo entre R$ 37 mil e R$ 48 mil fica com o governo.
+
+Lá fora, o imposto na compra é bem menor:
+
+| País | Imposto na compra do carro |
+|---|---|
+| **Brasil** | **de 30,6% a 48,6%** (IPI + ICMS + PIS + Cofins, conforme motor e origem) |
+| Itália | 22% (IVA) |
+| Reino Unido e França | 20% (IVA) |
+| Alemanha | 19% (IVA) |
+| Japão | cerca de 13% (consumo, registro e peso) |
+| Estados Unidos | cerca de 7% (média dos impostos estaduais sobre vendas) |
+
+<p class="fonte-grafico">Fonte: levantamento do Autotempo/O Tempo com dados da Anfavea, da União Europeia e da PwC (maio de 2026).</p>
+
+Uma ressalva honesta: cravar que o Brasil tem "o maior imposto do mundo" sobre carros é difícil, porque
+cada país cobra de um jeito, e alguns europeus têm taxas extras de registro e de emissões. Mas a distância
+é enorme. E a conta não para na concessionária: todo ano vem o **IPVA** (em São Paulo, 4% do valor do
+carro), e cada tanque cheio carrega os impostos do combustível.
+
+Com o Imposto Seletivo, nada disso diminui. Ele só troca de nome: o IPI sai, o Seletivo entra no lugar, e o
+carro, que já é um dos bens mais tributados do país, passa a estar oficialmente na mesma lista do cigarro.
+
+## Montadoras fecham as portas por causa disso?
+
+Em parte. O imposto alto é um dos pedaços do chamado "custo Brasil", ao lado de logística ruim, energia
+cara e burocracia. E houve saídas que marcaram:
+
+- **Ford (2021):** fechou as fábricas de Camaçari (BA), Taubaté (SP) e a da Troller em Horizonte (CE),
+  encerrou toda a produção no país e anunciou cerca de 5 mil demissões, citando anos de perdas
+  significativas e capacidade ociosa. Na época, a CNI chamou a decisão de "sinal de alerta" sobre a
+  necessidade de reduzir o custo Brasil, em especial com a reforma tributária.
+- **Mercedes-Benz (2020):** parou de fabricar automóveis em Iracemápolis (SP), mantendo só caminhões e
+  ônibus.
+- **Toyota:** anunciou o fechamento da fábrica de Indaiatuba (SP) até 2026, transferindo a produção para
+  Sorocaba. Nesse caso, é concentração, não saída do país.
+
+Mas seria injusto contar só metade da história. As fábricas vazias não ficaram vazias: a chinesa **BYD**
+começou a produzir na antiga fábrica da Ford em Camaçari em outubro de 2025, e a **GWM** inaugurou em agosto
+de 2025 a antiga fábrica da Mercedes em Iracemápolis, com uma segunda unidade anunciada no Espírito Santo.
+Parte do motivo é justamente imposto: com o Imposto de Importação de 35% sobre carros elétricos importados,
+ficou mais vantajoso montar aqui do que trazer de fora.
+
+Ou seja: o mercado brasileiro é grande o bastante para atrair montadora, mas o carro produzido aqui chega
+ao consumidor com quase metade do preço em impostos. Quem paga o "custo Brasil", no fim, é quem compra.
+
 ## Refrigerante paga, açúcar não
 
 Aqui está a contradição que mais chama atenção. O refrigerante paga **2,6%** de Imposto Seletivo, além da
@@ -171,6 +222,15 @@ arrecada e procura no consumidor a conta que não quer cortar na própria casa.
 - [Do diesel ao elétrico: quem vai pagar mais Imposto Seletivo em 2027 — InfoMoney](https://www.infomoney.com.br/minhas-financas/do-diesel-ao-eletrico-quem-vai-pagar-mais-imposto-seletivo-em-2027/)
 - [Como o "imposto do pecado" pode deixar seu próximo carro mais caro — CNN Brasil](https://www.cnnbrasil.com.br/blogs/jorge-moraes/auto/como-o-imposto-do-pecado-pode-deixar-seu-proximo-carro-mais-caro/)
 - [Imposto Seletivo: alíquotas ameaçam elevar preços e contrabando — Gazeta do Povo](https://www.gazetadopovo.com.br/economia/imposto-seletivo-aumento-precos-cigarro-bebida-carro/)
+
+**Impostos sobre carros e montadoras**
+- [Carro zero km no Brasil: imposto bate 48% e reforma tributária pode piorar a conta — O Tempo/Autotempo](https://www.otempo.com.br/autotempo/2026/5/6/carro-zero-km-no-brasil-imposto-bate-48-e-reforma-tributaria-pode-piorar-a-conta)
+- [Ford encerra sua produção no Brasil — Agência Brasil](https://agenciabrasil.ebc.com.br/economia/noticia/2021-01/ford-encerra-sua-producao-no-brasil)
+- [Ford decide fechar três fábricas no Brasil e encerrar toda a produção local — Exame](https://exame.com/negocios/ford-decide-fechar-tres-fabricas-no-brasil-e-encerrar-toda-producao-local/)
+- [Fábrica da Toyota suspende produção, que pode ser retomada só em 2026 — Metrópoles](https://www.metropoles.com/negocios/fabrica-da-toyota-suspende-producao-que-pode-ser-retomada-so-em-2026)
+- [Lula inaugura fábrica da GWM em Iracemápolis, São Paulo — Agência Brasil](https://agenciabrasil.ebc.com.br/economia/noticia/2025-08/lula-inaugura-fabrica-da-gwm-em-iracemapolis-sao-paulo)
+- [BYD retoma produção em Camaçari e chega a quase 20 mil veículos produzidos — Governo da Bahia](https://www.ba.gov.br/sde/noticias/2026-01/32970/byd-retoma-producao-em-camacari-e-chega-quase-20-mil-veiculos-produzidos)
+- [Carros importados mais caros? Montadoras passam a recolher 35% de impostos — CNN Brasil](https://www.cnnbrasil.com.br/blogs/jorge-moraes/auto/carros-importados-mais-caros-montadoras-passam-a-recolher-35-de-impostos/)
 
 **Reforma tributária, cesta básica e alíquota do IVA**
 - [Regulamentação da reforma tributária é sancionada; conheça a nova lei — Agência Câmara](https://www.camara.leg.br/noticias/1127237-regulamentacao-da-reforma-tributaria-e-sancionada-conheca-a-nova-lei/)
